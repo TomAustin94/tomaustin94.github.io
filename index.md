@@ -1,33 +1,35 @@
 ---
 layout: default
-title: "Home"
+title: "Tom Talks IT"
 ---
 
-# Welcome to My Portfolio
+# Welcome to Tom Talks IT
 
-Hello! I'm **Tom Austin**, an IT Specialist with over a decade of hands-on experience in the technology industry, based in the UK. My journey has equipped me with a robust skill set, including PowerShell scripting, systems administration, Office 365 management, server administration, Azure administration, and Python programming. My deep understanding of these areas allows me to tackle complex challenges and deliver effective solutions.
+Hello! I'm **Tom Austin**, an IT Specialist dedicated to sharing knowledge and insights in the technology field. Explore my work and join me on a journey through the world of IT.
 
-## About Me
+## **Discover My Book**
 
-Beyond my professional career, I'm passionate about photography. For more than five years, I've been capturing moments as a freelance photographer, blending technical precision with a creative eye. This combination of skills highlights my versatility and dedication.
+Unlock the secrets of Python programming with my latest book:
+- **[Python Mastery: From Beginner to Professional in 30 Days](https://www.amazon.com/dp/B0DCL1F5J2)**  
+  *Transform your skills and elevate your career with this comprehensive guide.*
 
-As an author, I'm committed to demystifying complex IT concepts and making them accessible to learners of all levels. My books are meticulously crafted to provide clear, actionable guidance, empowering readers to master new skills and advance their careers. I strive to maintain a commitment to excellence and an approachable teaching style, making me a reliable resource for anyone looking to deepen their understanding of IT.
+## **Read My Latest Posts**
 
-## Projects
+Stay updated with the latest trends and insights in IT:
+- **[Medium](https://medium.com/@TomTalksIT)**  
+  *Explore articles that dive deep into technology, offering practical tips and thought-provoking discussions.*
 
-Feel free to explore some of my recent work and contributions:
-- [GitHub Projects](https://github.com/tomaustin94?tab=repositories)
+## **Explore My Projects**
 
-## Publications
+See the practical application of my skills and ideas:
+- **[GitHub Projects](https://github.com/tomaustin94?tab=repositories)**  
+  *Browse through my projects to see innovative solutions and collaborative efforts in action.*
 
-Check out my latest book and other writings:
-- [Python Mastery: From Beginner to Professional in 30 Days](https://www.amazon.com/dp/B0DCL1F5J2)
+---
 
-## Blog
+## **Why Choose My Resources?**
 
-I share my thoughts and insights on technology and more on my blog:
-- [Medium Blog](https://medium.com/@TomTalksIT)
+- **Expertise**: Over a decade of experience in IT, providing reliable and insightful content.
+- **Engagement**: Interactive and thought-provoking materials to keep you engaged.
+- **Growth**: Tools and resources to help you advance your career and skills.
 
-## Connect with Me
-
-I'm always open to new opportunities and connections. Feel free to reach out for collaborations, inquiries, or just to say hello!
