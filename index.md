@@ -21,7 +21,7 @@ Feel free to explore some of my recent work and contributions:
 ## Publications
 
 Check out my latest book and other writings:
-- [Amazon Book](https://www.amazon.com/dp/B0DCL1F5J2)
+- [Python Mastery: From Beginner to Professional in 30 Days](https://www.amazon.com/dp/B0DCL1F5J2)
 
 ## Blog
 
