@@ -22,9 +22,10 @@ round-avatar: true
 #title-img: /path/to/image
 
 navbar-links:
-  Coding Projects I'm working on : "https://github.com/tomaustin94?tab=repositories"
-  My Latest Blog Posts: "https://medium.com/@TomTalksIT"
-  Learn Python in 30 days Book: "https://www.amazon.com/dp/B0DCL1F5J2"
+  Github : "https://github.com/tomaustin94?tab=repositories"
+  Medium: "https://medium.com/@TomTalksIT"
+  Books:   
+    - Learn Python in 30 days Book: "https://www.amazon.com/dp/B0DCL1F5J2"
 
 # Theme settings
 remote_theme: "daattali/beautiful-jekyll@6.0.1" # Use the remote theme feature
