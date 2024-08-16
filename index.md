@@ -3,8 +3,6 @@ layout: default
 title: "Home"
 ---
 
-![Profile Picture](https://github.com/tomaustin94.png)
-
 # Welcome to My Portfolio
 
 Hello! I'm **Tom Austin**, an IT Specialist with over a decade of hands-on experience in the technology industry, based in the UK. My journey has equipped me with a robust skill set, including PowerShell scripting, systems administration, Office 365 management, server administration, Azure administration, and Python programming. My deep understanding of these areas allows me to tackle complex challenges and deliver effective solutions.
