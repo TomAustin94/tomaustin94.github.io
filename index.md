@@ -11,7 +11,7 @@ Hello! I'm **Tom Austin**, an IT Specialist with over a decade of experience in 
 
 On this site, you will find a wealth of resources designed to help you navigate the ever-evolving world of technology. Whether you're a beginner or an experienced professional, my goal is to make complex IT concepts accessible and actionable.
 
-## **Discover My Book**
+## **My Books**
 
 Unlock the secrets of Python programming with my latest book:
 
@@ -19,7 +19,7 @@ Unlock the secrets of Python programming with my latest book:
 
 *Transform your skills and elevate your career with this comprehensive guide.*
 
-## **Read My Latest Posts**
+## **Read My Latest Posts on Medium**
 
 Stay updated with the latest trends and insights in IT:
 
