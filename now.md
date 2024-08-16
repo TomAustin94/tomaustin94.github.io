@@ -4,9 +4,9 @@ layout: default
 ---
 ## 🚀 Projects I'm Currently Working On
 
-1. 📘 PowerShell Book: I'm crafting a comprehensive book on PowerShell, featuring a curated collection of my scripts. Explore these scripts on GitHub. This book aims to be a practical guide for automating tasks with PowerShell.
+1. 📘 PowerShell Book: I'm crafting a comprehensive book on PowerShell, featuring a curated collection of my scripts. <a href="https://github.com/TomAustin94/PowerShellScripts">Explore examples of these scripts on GitHub.</a> This book aims to be a practical guide for automating tasks with PowerShell.
 2. 🔐 Cybersecurity Substack: I'm developing a Substack newsletter focused on cybersecurity in the nonprofit sector. This initiative aims to deliver valuable insights and strategies for enhancing digital security in resource-limited organizations.
-3. 📝 Thought Journal Application: I'm creating an online thought journal application using Python. This project is designed to help users maintain a digital journal for their thoughts and reflections. Check out the project on GitHub.
+3. 📝 Thought Journal Application: I'm creating a thought journal application using Python, this would either be self hosted or used in a terminal. This project is designed to help users maintain a digital journal for their thoughts and reflections either storing the data locally or just removing the entry after the user clicks away. <a href="https://github.com/TomAustin94/Thought-Journal">Check out the project on GitHub</a>. A hosted demo version is <a href="https://thought-journal.vercel.app/">here</a>
 
 ## 📚 Learning and Development
 
