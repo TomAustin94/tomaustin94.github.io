@@ -1,5 +1,4 @@
 layout: home
-title: Tom Talks IT
 ---
 
 # Welcome to Tom Talks IT
