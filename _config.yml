@@ -7,11 +7,26 @@ baseurl: "" # Leave this empty for user sites
 # Author settings
 author:
   name: "Tom Austin"
-  avatar: "https://github.com/tomaustin94.png" # GitHub profile picture URL
+  avatar: "htts://github.com/tomaustin94.png" # GitHub profile picture URL
   bio: "IT Specialist, author, and photographer based in the UK."
 
+################
+# --- Logo --- #
+################
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "https://github.com/tomaustin94.png"
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+#title-img: /path/to/image
+
+
 # Social media links
-social:
+social-network-links:
   - name: "GitHub"
     url: "https://github.com/tomaustin94?tab=repositories"
     icon: "fab fa-github"
