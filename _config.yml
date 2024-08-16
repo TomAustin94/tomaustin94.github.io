@@ -26,7 +26,7 @@ navbar-links:
   Medium: "https://medium.com/@TomTalksIT"
   Books:   
     - Learn Python in 30 days Book: "https://www.amazon.com/dp/B0DCL1F5J2"
-
+  now: now
 # Theme settings
 remote_theme: "daattali/beautiful-jekyll@6.0.1" # Use the remote theme feature
 
