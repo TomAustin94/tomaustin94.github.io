@@ -1,4 +1,9 @@
+---
+layout: default
+title: 'My Medium Feed'
+---
 
+# My Latest Medium Posts
 
 ## [Mastering Python Data Structures: A Comprehensive Guide to Lists, Tuples, Sets, and Dictionaries](https://tomtalksit.medium.com/mastering-python-data-structures-a-comprehensive-guide-to-lists-tuples-sets-and-dictionaries-bafebaa63ff1?source=rss-cba96b45006f------2)
 *Published on: August 17, 2024*
