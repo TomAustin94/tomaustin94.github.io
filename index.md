@@ -25,6 +25,8 @@ Stay updated with the latest trends and insights in IT:
 
 - **[Medium](https://medium.com/@TomTalksIT)**
 
+[Here are my 5 latest Medium Posts](medium-feed.md)
+
 *Explore articles that dive deep into technology, offering practical tips and thought-provoking discussions.*
 
 ## **Explore My Projects**
