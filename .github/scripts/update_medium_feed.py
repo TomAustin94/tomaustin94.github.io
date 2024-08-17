@@ -10,7 +10,7 @@ def fetch_medium_posts():
     
     markdown_content = yaml_front_matter + "# My Latest Posts\n\n"
     
-    for entry in feed.entries[:5]:  # Get the 5 most recent posts
+    for entry in feed.entries[:100]:  # Get the 100 most recent posts
         title = entry.title
         link = entry.link
         published = datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z")
