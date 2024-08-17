@@ -5,7 +5,7 @@ def fetch_medium_posts():
     feed_url = "https://medium.com/@TomTalksIT/feed"
     feed = feedparser.parse(feed_url)
     
-    markdown_content = "\n\n"
+    markdown_content = "Here are my 5 latest posts on Medium"
 
     
     for entry in feed.entries[:5]:  # Get the 5 most recent posts
