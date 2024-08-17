@@ -8,7 +8,7 @@ def fetch_medium_posts():
     # Create YAML front matter
     yaml_front_matter = "---\nlayout: default\ntitle: 'My Medium Feed'\n---\n\n"
     
-    markdown_content = yaml_front_matter + "# My Latest Medium Posts\n\n"
+    markdown_content = yaml_front_matter + "# My Latest Posts\n\n"
     
     for entry in feed.entries[:5]:  # Get the 5 most recent posts
         title = entry.title
