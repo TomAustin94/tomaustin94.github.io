@@ -22,7 +22,7 @@ def fetch_medium_posts():
         # Add a brief excerpt if available
         if 'summary' in entry:
             summary = entry.summary.split('<p>')[1].split('</p>')[0]  # Extract text from HTML
-            markdown_content += f"{summary[:150]}...\n\n"
+            markdown_content += f"{summary[:450]}...\n\n"
         
         markdown_content += "---\n\n"
     
