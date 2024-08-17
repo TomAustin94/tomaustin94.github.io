@@ -24,7 +24,7 @@ round-avatar: true
 navbar-links:
   Github : "https://github.com/tomaustin94?tab=repositories"
   Medium: "https://medium.com/@TomTalksIT"
-    - 5 latest posts: "/medium-feed"
+    - 5 latest posts: "https://tomaustin94.github.io/medium-feed"
   Books:   
     - Learn Python in 30 days Book: "https://www.amazon.com/dp/B0DCL1F5J2"
   now: now
