@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Introduction to Object-Oriented Programming in Python](https://tomtalksit.medium.com/introduction-to-object-oriented-programming-in-python-6f6f50bf64dc?source=rss-cba96b45006f------2)
+*Published on: August 18, 2024*
+
+In the world of programming, there are various paradigms that developers employ to write efficient and maintainable code. One such paradigm is Object-Oriented Programming (OOP), and Python shines as a language that embodies this approach with elegance and simplicity. But why does OOP matter, and how exactly can you leverage it in Python to build robust applications? Let’s explore this through the lens of Pythonic principles....
+
+---
+
 ## [Mastering Python Data Structures: A Comprehensive Guide to Lists, Tuples, Sets, and Dictionaries](https://tomtalksit.medium.com/mastering-python-data-structures-a-comprehensive-guide-to-lists-tuples-sets-and-dictionaries-bafebaa63ff1?source=rss-cba96b45006f------2)
 *Published on: August 17, 2024*
 
