@@ -6,8 +6,7 @@ layout: default
 
 1. 📘 PowerShell Book: I'm crafting a comprehensive book on PowerShell, featuring a curated collection of my scripts. <a href="https://github.com/TomAustin94/PowerShellScripts">Explore examples of these scripts on GitHub.</a> This book aims to be a practical guide for automating tasks with PowerShell.
 2. 🔐 Cybersecurity Substack: I'm developing a Substack newsletter focused on cybersecurity in the nonprofit sector. This initiative aims to deliver valuable insights and strategies for enhancing digital security in resource-limited organizations.
-3. 📝 Thought Journal Application: I'm creating a thought journal application using Python, this would either be self hosted or used in a terminal. This project is designed to help users maintain a digital journal for their thoughts and reflections either storing the data locally or just removing the entry after the user clicks away. <a href="https://github.com/TomAustin94/Thought-Journal">Check out the project on GitHub</a>. A hosted demo version is <a href="https://thought-journal.vercel.app/">here</a>
-
+3. 📝 Thought Journal Application: I'm creating a thought journal application using Python, this would either be self hosted or used in a terminal. This project is designed to help users maintain a digital journal for their thoughts and reflections either storing the data locally or just removing the entry after the user clicks away. <a href="https://github.com/TomAustin94/Thought-Journal">Check out the project on GitHub</a>. A hosted demo version is <a href="https://thought-journal.vercel.app/">here</a>.
 ## 📚 Learning and Development
 
 1. 🎵 Lofi Music Production: I'm diving into the world of lofi music, learning about music production techniques, sound design, and the unique elements that define the lofi genre.
@@ -21,8 +20,10 @@ layout: default
 
 ## 🎮 Games I'm Currently Playing
 
-1. ⚔️ Path of Exile (PC) & Diablo 4 (PC): I'm engrossed in these action RPGs, which offer complex mechanics and engaging storylines.
-2. 🌍 Skyrim & Doom Eternal (Xbox One): These games provide a mix of open-world exploration and fast-paced action that keeps me entertained.
-3. 🐴 Red Dead Redemption 2 (PS4): I'm exploring the vast and immersive world of this game, which delivers a rich narrative experience.
-4. 🛡️ Elden Ring & 🚚 Euro Truck Simulator 2 (Steam Deck): These games offer a blend of challenging gameplay and relaxing simulation, perfect for varied gaming sessions.
-5. 🧙‍♂️  Divinity Original Sin 2 (Switch): I'm enjoying this tactical RPG, which features deep storytelling and strategic combat.
+1. Path of Exile (PC): Currently a level 47 Templar. I spam totems.
+2. Skyrim & Doom Eternal (Xbox One): Skyrim is cheesed using a fortify restoration loop.
+3. Ghost of Tsushima (PS4)
+4. Elden Ring (Steam Deck)
+5. Super Metroid (SNES - Emulated on Switch)
+
+
