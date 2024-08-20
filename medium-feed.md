@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Integrating FastAPI with Celery for Background Task Processing](https://tomtalksit.medium.com/integrating-fastapi-with-celery-for-background-task-processing-27a81ecffffc?source=rss-cba96b45006f------2)
+*Published on: August 20, 2024*
+
+Combining FastAPI with Celery opens a pathway to handling background tasks that would otherwise block your main application thread. Whether sending out an email notification or processing complex data, background tasks can significantly enhance the user experience by offloading time-consuming operations....
+
+---
+
 ## [Explore the Essentials of Web Development and Why Python is a Popular Language Choice](https://tomtalksit.medium.com/explore-the-essentials-of-web-development-and-why-python-is-a-popular-language-choice-39b3f520ded3?source=rss-cba96b45006f------2)
 *Published on: August 19, 2024*
 
