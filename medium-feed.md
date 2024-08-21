@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Building a Full Stack Application with FastAPI, React, and MongoDB](https://tomtalksit.medium.com/building-a-full-stack-application-with-fastapi-react-and-mongodb-ad7397b709da?source=rss-cba96b45006f------2)
+*Published on: August 21, 2024*
+
+Let’s dive into the world of building full-stack applications using the FARM stack. This stack stands for FastAPI, React, and MongoDB, combining three powerful technologies to create modern web applications. We’ll explore each component’s role and guide you through setting up a project using these tools....
+
+---
+
 ## [Integrating FastAPI with Celery for Background Task Processing](https://tomtalksit.medium.com/integrating-fastapi-with-celery-for-background-task-processing-27a81ecffffc?source=rss-cba96b45006f------2)
 *Published on: August 20, 2024*
 
