@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [FastAPI Security Essentials: OAuth2, JWT, and Third-Party Integrations](https://tomtalksit.medium.com/fastapi-security-essentials-oauth2-jwt-and-third-party-integrations-3ad353b5bfbf?source=rss-cba96b45006f------2)
+*Published on: August 21, 2024*
+
+Before diving deep into the intricacies of securing a FastAPI application, it’s crucial to distinguish between authentication and authorization. Though often used interchangeably, these terms address different aspects of security....
+
+---
+
 ## [Building a Full Stack Application with FastAPI, React, and MongoDB](https://tomtalksit.medium.com/building-a-full-stack-application-with-fastapi-react-and-mongodb-ad7397b709da?source=rss-cba96b45006f------2)
 *Published on: August 21, 2024*
 
