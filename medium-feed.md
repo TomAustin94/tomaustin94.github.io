@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Optimizing FastAPI for High Performance: A Comprehensive Guide](https://tomtalksit.medium.com/optimizing-fastapi-for-high-performance-a-comprehensive-guide-1e08c16924b3?source=rss-cba96b45006f------2)
+*Published on: August 22, 2024*
+
+Optimizing FastAPI for High Performance: A Comprehensive Guide...
+
+---
+
 ## [FastAPI Security Essentials: OAuth2, JWT, and Third-Party Integrations](https://tomtalksit.medium.com/fastapi-security-essentials-oauth2-jwt-and-third-party-integrations-3ad353b5bfbf?source=rss-cba96b45006f------2)
 *Published on: August 21, 2024*
 
