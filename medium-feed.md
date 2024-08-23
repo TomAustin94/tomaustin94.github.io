@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Pythonic Data Cleaning With NumPy](https://tomtalksit.medium.com/pythonic-data-cleaning-with-numpy-a1f5a8771c09?source=rss-cba96b45006f------2)
+*Published on: August 23, 2024*
+
+In the world of data science, clean data is the bedrock upon which robust analysis is built. Inaccurate or incomplete data can lead to flawed models and misguided conclusions. Python offers a variety of tools for data cleaning, with NumPy being one of the most efficient and powerful. This guide will take you through an introduction to data cleaning using NumPy, providing you with the skills needed to handle missing data, clean datasets, and perfo...
+
+---
+
 ## [Optimizing FastAPI for High Performance: A Comprehensive Guide](https://tomtalksit.medium.com/optimizing-fastapi-for-high-performance-a-comprehensive-guide-1e08c16924b3?source=rss-cba96b45006f------2)
 *Published on: August 22, 2024*
 
