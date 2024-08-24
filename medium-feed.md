@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [NumPy: Mastering Array Operations for Efficient Data Analysis](https://tomtalksit.medium.com/numpy-mastering-array-operations-for-efficient-data-analysis-d47fdbaf9e6f?source=rss-cba96b45006f------2)
+*Published on: August 24, 2024*
+
+NumPy is a cornerstone library for numerical and scientific computing in Python. Understanding its math and statistical functions can significantly enhance the quality and efficiency of data analysis. This section will explore key mathematical functions, statistical methods, aggregation operations, and linear algebra capabilities that NumPy offers....
+
+---
+
 ## [Pythonic Data Cleaning With NumPy](https://tomtalksit.medium.com/pythonic-data-cleaning-with-numpy-a1f5a8771c09?source=rss-cba96b45006f------2)
 *Published on: August 23, 2024*
 
