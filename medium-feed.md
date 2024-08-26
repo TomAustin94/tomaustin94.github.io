@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [A Beginner’s Guide to Mastering Matplotlib](https://tomtalksit.medium.com/a-beginners-guide-to-mastering-matplotlib-4de5baab9084?source=rss-cba96b45006f------2)
+*Published on: August 26, 2024*
+
+A Beginner’s Guide to Mastering Matplotlib...
+
+---
+
 ## [Matplotlib Tips and Tricks](https://tomtalksit.medium.com/matplotlib-tips-and-tricks-f1b10458ef74?source=rss-cba96b45006f------2)
 *Published on: August 25, 2024*
 
@@ -65,13 +72,6 @@ Combining FastAPI with Celery opens a pathway to handling background tasks that 
 *Published on: August 19, 2024*
 
 Web development has experienced a profound transformation over the past few decades, with frameworks and languages evolving to meet the ever-growing demands of interactive and dynamic web applications. At the heart of this evolution is Python, a language celebrated for its simplicity and robust capabilities. In this section, we’ll explore why Python has become a preferred choice for web development, and how its foremost frameworks, Flask and Djan...
-
----
-
-## [Introduction to Object-Oriented Programming in Python](https://tomtalksit.medium.com/introduction-to-object-oriented-programming-in-python-6f6f50bf64dc?source=rss-cba96b45006f------2)
-*Published on: August 18, 2024*
-
-In the world of programming, there are various paradigms that developers employ to write efficient and maintainable code. One such paradigm is Object-Oriented Programming (OOP), and Python shines as a language that embodies this approach with elegance and simplicity. But why does OOP matter, and how exactly can you leverage it in Python to build robust applications? Let’s explore this through the lens of Pythonic principles....
 
 ---
 
