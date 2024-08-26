@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Matplotlib Tips and Tricks](https://tomtalksit.medium.com/matplotlib-tips-and-tricks-f1b10458ef74?source=rss-cba96b45006f------2)
+*Published on: August 25, 2024*
+
+Matplotlib is a powerful library for data visualization in Python. Whether you’re a beginner or looking to enhance your plotting skills, this guide offers practical tips and tricks to help you create effective visualizations....
+
+---
+
 ## [Real-World Applications of NumPy](https://tomtalksit.medium.com/real-world-applications-of-numpy-bdf21b32be4f?source=rss-cba96b45006f------2)
 *Published on: August 24, 2024*
 
@@ -65,13 +72,6 @@ Web development has experienced a profound transformation over the past few deca
 *Published on: August 18, 2024*
 
 In the world of programming, there are various paradigms that developers employ to write efficient and maintainable code. One such paradigm is Object-Oriented Programming (OOP), and Python shines as a language that embodies this approach with elegance and simplicity. But why does OOP matter, and how exactly can you leverage it in Python to build robust applications? Let’s explore this through the lens of Pythonic principles....
-
----
-
-## [Mastering Python Data Structures: A Comprehensive Guide to Lists, Tuples, Sets, and Dictionaries](https://tomtalksit.medium.com/mastering-python-data-structures-a-comprehensive-guide-to-lists-tuples-sets-and-dictionaries-bafebaa63ff1?source=rss-cba96b45006f------2)
-*Published on: August 17, 2024*
-
-In the vast and ever-evolving landscape of computer programming, Python stands out as a versatile and powerful language that can cater to a wide array of tasks, from web development and scientific computation to artificial intelligence and data science. One of Python’s key strengths lies in its rich set of built-in data structures — namely lists, tuples, sets, and dictionaries. These structures are the building blocks of Python programming, enabl...
 
 ---
 
