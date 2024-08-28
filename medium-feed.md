@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Data Visualization Techniques with Matplotlib](https://tomtalksit.medium.com/data-visualization-techniques-with-matplotlib-fa5d1773469b?source=rss-cba96b45006f------2)
+*Published on: August 28, 2024*
+
+Matplotlib is a powerful library in Python for creating static, animated, and interactive visualizations. In this guide, we will explore various data visualization techniques using Matplotlib, focusing on line plots, scatter plots, and histograms. Let’s get started!...
+
+---
+
 ## [A Beginner’s Guide to Mastering Matplotlib](https://tomtalksit.medium.com/a-beginners-guide-to-mastering-matplotlib-4de5baab9084?source=rss-cba96b45006f------2)
 *Published on: August 26, 2024*
 
@@ -65,13 +72,6 @@ Let’s dive into the world of building full-stack applications using the FARM s
 *Published on: August 20, 2024*
 
 Combining FastAPI with Celery opens a pathway to handling background tasks that would otherwise block your main application thread. Whether sending out an email notification or processing complex data, background tasks can significantly enhance the user experience by offloading time-consuming operations....
-
----
-
-## [Explore the Essentials of Web Development and Why Python is a Popular Language Choice](https://tomtalksit.medium.com/explore-the-essentials-of-web-development-and-why-python-is-a-popular-language-choice-39b3f520ded3?source=rss-cba96b45006f------2)
-*Published on: August 19, 2024*
-
-Web development has experienced a profound transformation over the past few decades, with frameworks and languages evolving to meet the ever-growing demands of interactive and dynamic web applications. At the heart of this evolution is Python, a language celebrated for its simplicity and robust capabilities. In this section, we’ll explore why Python has become a preferred choice for web development, and how its foremost frameworks, Flask and Djan...
 
 ---
 
