@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Customizing Plots with Matplotlib](https://tomtalksit.medium.com/customizing-plots-with-matplotlib-106bdab6fa4b?source=rss-cba96b45006f------2)
+*Published on: August 29, 2024*
+
+In an era where data drives decision-making across industries, the ability to present information visually is more crucial than ever. Whether you’re a data scientist, a researcher, or a business analyst, communicating your insights through compelling graphics can make the difference between a message that resonates and one that gets lost in the noise. Matplotlib, one of the most widely used libraries in Python for data visualization, offers a rob...
+
+---
+
 ## [Data Visualization Techniques with Matplotlib](https://tomtalksit.medium.com/data-visualization-techniques-with-matplotlib-fa5d1773469b?source=rss-cba96b45006f------2)
 *Published on: August 28, 2024*
 
@@ -65,13 +72,6 @@ Before diving deep into the intricacies of securing a FastAPI application, it’
 *Published on: August 21, 2024*
 
 Let’s dive into the world of building full-stack applications using the FARM stack. This stack stands for FastAPI, React, and MongoDB, combining three powerful technologies to create modern web applications. We’ll explore each component’s role and guide you through setting up a project using these tools....
-
----
-
-## [Integrating FastAPI with Celery for Background Task Processing](https://tomtalksit.medium.com/integrating-fastapi-with-celery-for-background-task-processing-27a81ecffffc?source=rss-cba96b45006f------2)
-*Published on: August 20, 2024*
-
-Combining FastAPI with Celery opens a pathway to handling background tasks that would otherwise block your main application thread. Whether sending out an email notification or processing complex data, background tasks can significantly enhance the user experience by offloading time-consuming operations....
 
 ---
 
