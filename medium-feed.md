@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Matplotlib vs Other Visualization Libraries](https://tomtalksit.medium.com/matplotlib-vs-other-visualization-libraries-d9a20bbafb6b?source=rss-cba96b45006f------2)
+*Published on: August 30, 2024*
+
+In an era where data is often hailed as the new oil, the ability to visualize complex information effectively has never been more critical. As businesses, researchers, and individuals alike seek to derive insights from vast datasets, the tools they use to create visual representations of this data play a pivotal role in communication and decision-making. Among the plethora of visualization libraries available in Python, Matplotlib stands out as a...
+
+---
+
 ## [Customizing Plots with Matplotlib](https://tomtalksit.medium.com/customizing-plots-with-matplotlib-106bdab6fa4b?source=rss-cba96b45006f------2)
 *Published on: August 29, 2024*
 
@@ -65,13 +72,6 @@ Optimizing FastAPI for High Performance: A Comprehensive Guide...
 *Published on: August 21, 2024*
 
 Before diving deep into the intricacies of securing a FastAPI application, it’s crucial to distinguish between authentication and authorization. Though often used interchangeably, these terms address different aspects of security....
-
----
-
-## [Building a Full Stack Application with FastAPI, React, and MongoDB](https://tomtalksit.medium.com/building-a-full-stack-application-with-fastapi-react-and-mongodb-ad7397b709da?source=rss-cba96b45006f------2)
-*Published on: August 21, 2024*
-
-Let’s dive into the world of building full-stack applications using the FARM stack. This stack stands for FastAPI, React, and MongoDB, combining three powerful technologies to create modern web applications. We’ll explore each component’s role and guide you through setting up a project using these tools....
 
 ---
 
