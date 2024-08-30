@@ -25,8 +25,10 @@ navbar-links:
   Github : "https://github.com/tomaustin94?tab=repositories"
   Medium: "https://medium.com/@TomTalksIT"
   Blog: "https://tomaustin94.github.io/medium-feed/"
+  Cyber Security Substack: "https://tomtalkssecurity.substack.com/"  
   Books:   
     - Learn Python in 30 days Book: "https://www.amazon.com/dp/B0DCL1F5J2"
+    - Mastering PowerShell for System Administrators: "https://thomasmichaelaustin.gumroad.com/l/PowershellForSysAdmins"    
   now: now
 # Theme settings
 remote_theme: "daattali/beautiful-jekyll@6.0.1" # Use the remote theme feature
