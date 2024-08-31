@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Matplotlib Tips and Tricks](https://tomtalksit.medium.com/matplotlib-tips-and-tricks-db31fb0f86d7?source=rss-cba96b45006f------2)
+*Published on: August 31, 2024*
+
+In an era where data is often referred to as the new oil, the ability to visualize information effectively has never been more critical. As industries turn to data-driven decision-making, the demand for clear, insightful visualizations is on the rise. Enter Matplotlib, a powerful and versatile plotting library for Python that has become a staple in the toolkit of data scientists and analysts alike. Whether you are exploring data trends, communica...
+
+---
+
 ## [Matplotlib vs Other Visualization Libraries](https://tomtalksit.medium.com/matplotlib-vs-other-visualization-libraries-d9a20bbafb6b?source=rss-cba96b45006f------2)
 *Published on: August 30, 2024*
 
@@ -65,13 +72,6 @@ In the world of data science, clean data is the bedrock upon which robust analys
 *Published on: August 22, 2024*
 
 Optimizing FastAPI for High Performance: A Comprehensive Guide...
-
----
-
-## [FastAPI Security Essentials: OAuth2, JWT, and Third-Party Integrations](https://tomtalksit.medium.com/fastapi-security-essentials-oauth2-jwt-and-third-party-integrations-3ad353b5bfbf?source=rss-cba96b45006f------2)
-*Published on: August 21, 2024*
-
-Before diving deep into the intricacies of securing a FastAPI application, it’s crucial to distinguish between authentication and authorization. Though often used interchangeably, these terms address different aspects of security....
 
 ---
 
