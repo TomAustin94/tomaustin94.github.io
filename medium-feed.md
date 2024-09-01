@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Introduction to SciPy](https://tomtalksit.medium.com/introduction-to-scipy-0ca1f04d72f7?source=rss-cba96b45006f------2)
+*Published on: September 01, 2024*
+
+In a world increasingly driven by data, the ability to analyze and interpret scientific information is more crucial than ever. Whether it’s in the fields of engineering, physics, biology, or finance, the demand for robust computational tools has never been higher. Enter SciPy — a powerful open-source library that has become a cornerstone of scientific computing in Python. With its rich ecosystem of functions and algorithms, SciPy empowers researc...
+
+---
+
 ## [Matplotlib Tips and Tricks](https://tomtalksit.medium.com/matplotlib-tips-and-tricks-db31fb0f86d7?source=rss-cba96b45006f------2)
 *Published on: August 31, 2024*
 
@@ -65,13 +72,6 @@ NumPy is a cornerstone library for numerical and scientific computing in Python.
 *Published on: August 23, 2024*
 
 In the world of data science, clean data is the bedrock upon which robust analysis is built. Inaccurate or incomplete data can lead to flawed models and misguided conclusions. Python offers a variety of tools for data cleaning, with NumPy being one of the most efficient and powerful. This guide will take you through an introduction to data cleaning using NumPy, providing you with the skills needed to handle missing data, clean datasets, and perfo...
-
----
-
-## [Optimizing FastAPI for High Performance: A Comprehensive Guide](https://tomtalksit.medium.com/optimizing-fastapi-for-high-performance-a-comprehensive-guide-1e08c16924b3?source=rss-cba96b45006f------2)
-*Published on: August 22, 2024*
-
-Optimizing FastAPI for High Performance: A Comprehensive Guide...
 
 ---
 
