@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Getting Started with SciPy](https://tomtalksit.medium.com/getting-started-with-scipy-9a980a884838?source=rss-cba96b45006f------2)
+*Published on: September 02, 2024*
+
+In an era where data reigns supreme, the ability to analyze and manipulate numerical information is more crucial than ever. Whether you’re a student delving into the world of scientific computing, a researcher seeking to streamline your data analysis, or a developer looking to enhance your projects with powerful libraries, understanding how to leverage tools like SciPy can be a game changer. SciPy, a cornerstone of the Python scientific ecosystem...
+
+---
+
 ## [Getting Started with Windows PowerShell](https://tomtalksit.medium.com/getting-started-with-windows-powershell-272361bae81c?source=rss-cba96b45006f------2)
 *Published on: September 02, 2024*
 
@@ -65,13 +72,6 @@ Matplotlib is a powerful library for data visualization in Python. Whether you�
 *Published on: August 24, 2024*
 
 In an era defined by data, the ability to analyze and manipulate large datasets efficiently has become a cornerstone of innovation across various industries. From financial markets driven by intricate algorithms to healthcare applications that require precise data analysis for patient outcomes, the tools we choose to harness this data can significantly impact our decision-making processes. One such tool that has gained immense popularity is NumPy...
-
----
-
-## [NumPy: Mastering Array Operations for Efficient Data Analysis](https://tomtalksit.medium.com/numpy-mastering-array-operations-for-efficient-data-analysis-d47fdbaf9e6f?source=rss-cba96b45006f------2)
-*Published on: August 24, 2024*
-
-NumPy is a cornerstone library for numerical and scientific computing in Python. Understanding its math and statistical functions can significantly enhance the quality and efficiency of data analysis. This section will explore key mathematical functions, statistical methods, aggregation operations, and linear algebra capabilities that NumPy offers....
 
 ---
 
