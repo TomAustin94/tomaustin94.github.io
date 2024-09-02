@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Getting Started with Windows PowerShell](https://tomtalksit.medium.com/getting-started-with-windows-powershell-272361bae81c?source=rss-cba96b45006f------2)
+*Published on: September 02, 2024*
+
+In the fast-paced world of IT and system administration, efficiency and automation are paramount. As organizations increasingly rely on technology to streamline their operations, the demand for skilled professionals who can manage and optimize systems efficiently has never been greater. Enter Windows PowerShell — a powerful scripting language and command-line shell designed specifically for system administrators. With its ability to automate repe...
+
+---
+
 ## [Introduction to SciPy](https://tomtalksit.medium.com/introduction-to-scipy-0ca1f04d72f7?source=rss-cba96b45006f------2)
 *Published on: September 01, 2024*
 
@@ -65,13 +72,6 @@ In an era defined by data, the ability to analyze and manipulate large datasets 
 *Published on: August 24, 2024*
 
 NumPy is a cornerstone library for numerical and scientific computing in Python. Understanding its math and statistical functions can significantly enhance the quality and efficiency of data analysis. This section will explore key mathematical functions, statistical methods, aggregation operations, and linear algebra capabilities that NumPy offers....
-
----
-
-## [Pythonic Data Cleaning With NumPy](https://tomtalksit.medium.com/pythonic-data-cleaning-with-numpy-a1f5a8771c09?source=rss-cba96b45006f------2)
-*Published on: August 23, 2024*
-
-In the world of data science, clean data is the bedrock upon which robust analysis is built. Inaccurate or incomplete data can lead to flawed models and misguided conclusions. Python offers a variety of tools for data cleaning, with NumPy being one of the most efficient and powerful. This guide will take you through an introduction to data cleaning using NumPy, providing you with the skills needed to handle missing data, clean datasets, and perfo...
 
 ---
 
