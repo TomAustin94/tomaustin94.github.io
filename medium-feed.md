@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Top 10 PowerShell Commands Every IT Professional Should Know](https://tomtalksit.medium.com/top-10-powershell-commands-every-it-professional-should-know-93e16fcd7283?source=rss-cba96b45006f------2)
+*Published on: September 03, 2024*
+
+In the ever-evolving information technology landscape, efficiency, and automation are paramount for success. As systems grow more complex and the demands on IT professionals increase, mastering tools that streamline workflows becomes essential. PowerShell, a powerful task automation framework developed by Microsoft, stands out as a critical skill for system administrators and IT professionals. It allows users to automate repetitive tasks, manage ...
+
+---
+
+## [SciPy vs. NumPy: A Comprehensive Comparison](https://tomtalksit.medium.com/scipy-vs-numpy-a-comprehensive-comparison-5c0f804c9922?source=rss-cba96b45006f------2)
+*Published on: September 03, 2024*
+
+In the ever-evolving landscape of data science and scientific computing, choosing the right tools can significantly impact both the efficiency and effectiveness of your projects. Among the myriad of libraries available in the Python ecosystem, two stand out for their extensive use and powerful capabilities: NumPy and SciPy. While they are often mentioned together and even used in conjunction, understanding their differences is crucial for anyone ...
+
+---
+
 ## [Getting Started with SciPy](https://tomtalksit.medium.com/getting-started-with-scipy-9a980a884838?source=rss-cba96b45006f------2)
 *Published on: September 02, 2024*
 
@@ -58,20 +72,6 @@ Matplotlib is a powerful library in Python for creating static, animated, and in
 *Published on: August 26, 2024*
 
 A Beginner’s Guide to Mastering Matplotlib...
-
----
-
-## [Matplotlib Tips and Tricks](https://tomtalksit.medium.com/matplotlib-tips-and-tricks-f1b10458ef74?source=rss-cba96b45006f------2)
-*Published on: August 25, 2024*
-
-Matplotlib is a powerful library for data visualization in Python. Whether you’re a beginner or looking to enhance your plotting skills, this guide offers practical tips and tricks to help you create effective visualizations....
-
----
-
-## [Real-World Applications of NumPy](https://tomtalksit.medium.com/real-world-applications-of-numpy-bdf21b32be4f?source=rss-cba96b45006f------2)
-*Published on: August 24, 2024*
-
-In an era defined by data, the ability to analyze and manipulate large datasets efficiently has become a cornerstone of innovation across various industries. From financial markets driven by intricate algorithms to healthcare applications that require precise data analysis for patient outcomes, the tools we choose to harness this data can significantly impact our decision-making processes. One such tool that has gained immense popularity is NumPy...
 
 ---
 
