@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Top 10 SciPy Functions for Data Analysis](https://tomtalksit.medium.com/top-10-scipy-functions-for-data-analysis-d5f0812cc7e8?source=rss-cba96b45006f------2)
+*Published on: September 04, 2024*
+
+In an era dominated by data, the ability to extract meaningful insights from vast datasets is more critical than ever. As businesses, researchers, and data enthusiasts strive to harness the power of data analysis, the tools at their disposal can make all the difference. Among these tools, SciPy stands out as a cornerstone library in the Python ecosystem, offering a wealth of functions designed for scientific and technical computing. Whether you a...
+
+---
+
+## [Automating Active Directory Management with PowerShell](https://tomtalksit.medium.com/automating-active-directory-management-with-powershell-09e728834582?source=rss-cba96b45006f------2)
+*Published on: September 04, 2024*
+
+In today’s fast-paced IT landscape, system administrators and IT professionals face the constant challenge of managing a growing number of users, groups, and computers within Active Directory (AD) environments. With businesses increasingly relying on robust IT infrastructures, efficient management of these critical components is essential for maintaining security, compliance, and operational effectiveness. This is where automation comes into play...
+
+---
+
 ## [Top 10 PowerShell Commands Every IT Professional Should Know](https://tomtalksit.medium.com/top-10-powershell-commands-every-it-professional-should-know-93e16fcd7283?source=rss-cba96b45006f------2)
 *Published on: September 03, 2024*
 
@@ -58,20 +72,6 @@ In an era where data is often hailed as the new oil, the ability to visualize co
 *Published on: August 29, 2024*
 
 In an era where data drives decision-making across industries, the ability to present information visually is more crucial than ever. Whether you’re a data scientist, a researcher, or a business analyst, communicating your insights through compelling graphics can make the difference between a message that resonates and one that gets lost in the noise. Matplotlib, one of the most widely used libraries in Python for data visualization, offers a rob...
-
----
-
-## [Data Visualization Techniques with Matplotlib](https://tomtalksit.medium.com/data-visualization-techniques-with-matplotlib-fa5d1773469b?source=rss-cba96b45006f------2)
-*Published on: August 28, 2024*
-
-Matplotlib is a powerful library in Python for creating static, animated, and interactive visualizations. In this guide, we will explore various data visualization techniques using Matplotlib, focusing on line plots, scatter plots, and histograms. Let’s get started!...
-
----
-
-## [A Beginner’s Guide to Mastering Matplotlib](https://tomtalksit.medium.com/a-beginners-guide-to-mastering-matplotlib-4de5baab9084?source=rss-cba96b45006f------2)
-*Published on: August 26, 2024*
-
-A Beginner’s Guide to Mastering Matplotlib...
 
 ---
 
