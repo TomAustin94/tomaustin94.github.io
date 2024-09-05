@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Advanced PowerShell Scripting: Tips for Optimizing Performance and Security](https://tomtalksit.medium.com/advanced-powershell-scripting-tips-for-optimizing-performance-and-security-60e6534bbe86?source=rss-cba96b45006f------2)
+*Published on: September 05, 2024*
+
+In the rapidly evolving landscape of IT management, system administrators and IT professionals are constantly seeking ways to enhance efficiency and maintain robust security protocols. PowerShell, Microsoft’s powerful scripting language, has emerged as an indispensable tool for automating tasks, managing configurations, and streamlining processes across diverse IT environments. However, to truly harness the power of PowerShell, one must go beyond...
+
+---
+
 ## [Top 10 SciPy Functions for Data Analysis](https://tomtalksit.medium.com/top-10-scipy-functions-for-data-analysis-d5f0812cc7e8?source=rss-cba96b45006f------2)
 *Published on: September 04, 2024*
 
@@ -65,13 +72,6 @@ In an era where data is often referred to as the new oil, the ability to visuali
 *Published on: August 30, 2024*
 
 In an era where data is often hailed as the new oil, the ability to visualize complex information effectively has never been more critical. As businesses, researchers, and individuals alike seek to derive insights from vast datasets, the tools they use to create visual representations of this data play a pivotal role in communication and decision-making. Among the plethora of visualization libraries available in Python, Matplotlib stands out as a...
-
----
-
-## [Customizing Plots with Matplotlib](https://tomtalksit.medium.com/customizing-plots-with-matplotlib-106bdab6fa4b?source=rss-cba96b45006f------2)
-*Published on: August 29, 2024*
-
-In an era where data drives decision-making across industries, the ability to present information visually is more crucial than ever. Whether you’re a data scientist, a researcher, or a business analyst, communicating your insights through compelling graphics can make the difference between a message that resonates and one that gets lost in the noise. Matplotlib, one of the most widely used libraries in Python for data visualization, offers a rob...
 
 ---
 
