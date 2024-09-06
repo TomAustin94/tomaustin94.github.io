@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [SciPy for Machine Learning](https://tomtalksit.medium.com/scipy-for-machine-learning-6cc8947dcc1d?source=rss-cba96b45006f------2)
+*Published on: September 05, 2024*
+
+In an era where data drives innovation and decision-making, machine learning has emerged as a transformative force across industries. From healthcare to finance, the ability to analyze vast amounts of data and extract meaningful insights has never been more critical. As practitioners and enthusiasts delve into the world of machine learning, the tools and libraries they choose can significantly impact their success. Among these, SciPy stands out a...
+
+---
+
 ## [Advanced PowerShell Scripting: Tips for Optimizing Performance and Security](https://tomtalksit.medium.com/advanced-powershell-scripting-tips-for-optimizing-performance-and-security-60e6534bbe86?source=rss-cba96b45006f------2)
 *Published on: September 05, 2024*
 
@@ -65,13 +72,6 @@ In a world increasingly driven by data, the ability to analyze and interpret sci
 *Published on: August 31, 2024*
 
 In an era where data is often referred to as the new oil, the ability to visualize information effectively has never been more critical. As industries turn to data-driven decision-making, the demand for clear, insightful visualizations is on the rise. Enter Matplotlib, a powerful and versatile plotting library for Python that has become a staple in the toolkit of data scientists and analysts alike. Whether you are exploring data trends, communica...
-
----
-
-## [Matplotlib vs Other Visualization Libraries](https://tomtalksit.medium.com/matplotlib-vs-other-visualization-libraries-d9a20bbafb6b?source=rss-cba96b45006f------2)
-*Published on: August 30, 2024*
-
-In an era where data is often hailed as the new oil, the ability to visualize complex information effectively has never been more critical. As businesses, researchers, and individuals alike seek to derive insights from vast datasets, the tools they use to create visual representations of this data play a pivotal role in communication and decision-making. Among the plethora of visualization libraries available in Python, Matplotlib stands out as a...
 
 ---
 
