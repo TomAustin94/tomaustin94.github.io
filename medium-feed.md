@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Integrating PowerShell with Cloud Services: Automate Azure and AWS Tasks](https://tomtalksit.medium.com/integrating-powershell-with-cloud-services-automate-azure-and-aws-tasks-a68a56d29475?source=rss-cba96b45006f------2)
+*Published on: September 06, 2024*
+
+In today’s fast-paced IT landscape, where cloud computing has become a cornerstone of modern infrastructure, the ability to efficiently manage and automate tasks across platforms is paramount. System administrators and IT professionals are continually tasked with the challenge of ensuring seamless operations in complex environments that encompass both on-premises and cloud resources. Amidst this complexity, PowerShell emerges as a powerful ally, ...
+
+---
+
+## [Optimizing Code with SciPy](https://tomtalksit.medium.com/optimizing-code-with-scipy-e4e283b75143?source=rss-cba96b45006f------2)
+*Published on: September 06, 2024*
+
+In today’s fast-paced technological landscape, efficiency is paramount. Whether you’re developing cutting-edge applications, conducting scientific research, or analyzing vast datasets, the performance of your code can significantly impact outcomes. Optimizing code not only enhances speed but also conserves computational resources, making it a vital skill for developers and data scientists alike. Enter SciPy, a powerful library that extends the ca...
+
+---
+
 ## [SciPy for Machine Learning](https://tomtalksit.medium.com/scipy-for-machine-learning-6cc8947dcc1d?source=rss-cba96b45006f------2)
 *Published on: September 05, 2024*
 
@@ -58,20 +72,6 @@ In an era where data reigns supreme, the ability to analyze and manipulate numer
 *Published on: September 02, 2024*
 
 In the fast-paced world of IT and system administration, efficiency and automation are paramount. As organizations increasingly rely on technology to streamline their operations, the demand for skilled professionals who can manage and optimize systems efficiently has never been greater. Enter Windows PowerShell — a powerful scripting language and command-line shell designed specifically for system administrators. With its ability to automate repe...
-
----
-
-## [Introduction to SciPy](https://tomtalksit.medium.com/introduction-to-scipy-0ca1f04d72f7?source=rss-cba96b45006f------2)
-*Published on: September 01, 2024*
-
-In a world increasingly driven by data, the ability to analyze and interpret scientific information is more crucial than ever. Whether it’s in the fields of engineering, physics, biology, or finance, the demand for robust computational tools has never been higher. Enter SciPy — a powerful open-source library that has become a cornerstone of scientific computing in Python. With its rich ecosystem of functions and algorithms, SciPy empowers researc...
-
----
-
-## [Matplotlib Tips and Tricks](https://tomtalksit.medium.com/matplotlib-tips-and-tricks-db31fb0f86d7?source=rss-cba96b45006f------2)
-*Published on: August 31, 2024*
-
-In an era where data is often referred to as the new oil, the ability to visualize information effectively has never been more critical. As industries turn to data-driven decision-making, the demand for clear, insightful visualizations is on the rise. Enter Matplotlib, a powerful and versatile plotting library for Python that has become a staple in the toolkit of data scientists and analysts alike. Whether you are exploring data trends, communica...
 
 ---
 
