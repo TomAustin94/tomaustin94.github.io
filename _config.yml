@@ -13,9 +13,9 @@ author: "Tom Austin"
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://github.com/tomaustin94.png"
+# avatar: "https://github.com/tomaustin94.png"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -23,10 +23,9 @@ round-avatar: true
 
 navbar-links:
   Github : "https://github.com/tomaustin94?tab=repositories"
-  Medium: "https://medium.com/@TomTalksIT"
   TomTalksPowershell: "https://medium.com/tomtalkspowershell"
   TomTalksPython: "https://medium.com/tomtalkspython"
-  All My Posts: "https://tomaustin94.github.io/medium-feed/"
+  Medium: "https://tomaustin94.github.io/medium-feed/"
   TomTalksSecurity Substack: "https://tomtalkssecurity.substack.com/"  
   Books:   
     - Learn Python in 30 days Book: "https://www.amazon.com/dp/B0DCL1F5J2"
