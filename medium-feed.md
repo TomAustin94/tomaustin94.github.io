@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [PowerShell and OpenSSH: Enhancing Cross-Platform Management](https://medium.com/tomtalkspowershell/powershell-and-openssh-enhancing-cross-platform-management-bc20fe8c7ac1?source=rss-cba96b45006f------2)
+*Published on: September 09, 2024*
+
+In today’s dynamic IT landscape, where hybrid infrastructures and diverse operating environments are the norm, system administrators and IT professionals are continuously seeking tools that streamline management and enhance efficiency. The rise of DevOps practices and the increasing demand for cross-platform capabilities necessitate innovative solutions that transcend the traditional boundaries of operating systems. Enter PowerShell and OpenSSH —...
+
+---
+
 ## [Integrating PowerShell with Cloud Services: Automate Azure and AWS Tasks](https://tomtalksit.medium.com/integrating-powershell-with-cloud-services-automate-azure-and-aws-tasks-a68a56d29475?source=rss-cba96b45006f------2)
 *Published on: September 06, 2024*
 
@@ -65,13 +72,6 @@ In the ever-evolving landscape of data science and scientific computing, choosin
 *Published on: September 02, 2024*
 
 In an era where data reigns supreme, the ability to analyze and manipulate numerical information is more crucial than ever. Whether you’re a student delving into the world of scientific computing, a researcher seeking to streamline your data analysis, or a developer looking to enhance your projects with powerful libraries, understanding how to leverage tools like SciPy can be a game changer. SciPy, a cornerstone of the Python scientific ecosystem...
-
----
-
-## [Getting Started with Windows PowerShell](https://tomtalksit.medium.com/getting-started-with-windows-powershell-272361bae81c?source=rss-cba96b45006f------2)
-*Published on: September 02, 2024*
-
-In the fast-paced world of IT and system administration, efficiency and automation are paramount. As organizations increasingly rely on technology to streamline their operations, the demand for skilled professionals who can manage and optimize systems efficiently has never been greater. Enter Windows PowerShell — a powerful scripting language and command-line shell designed specifically for system administrators. With its ability to automate repe...
 
 ---
 
