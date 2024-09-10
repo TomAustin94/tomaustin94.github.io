@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [SciPy for Signal Processing](https://medium.com/tomtalkspython/scipy-for-signal-processing-2fa2c8a290c4?source=rss-cba96b45006f------2)
+*Published on: September 10, 2024*
+
+In an era where data is generated at an unprecedented scale and speed, the ability to analyze and manipulate signals has become crucial across various fields, from telecommunications to biomedical engineering. Signal processing is the backbone of technologies that enhance our everyday lives, whether it’s filtering noise from audio recordings, analyzing seismic activity, or improving the quality of images in medical diagnostics. As we delve into t...
+
+---
+
+## [The Evolution of PowerShell: From Windows to Cross-Platform Management](https://medium.com/tomtalkspowershell/the-evolution-of-powershell-from-windows-to-cross-platform-management-2bd34bb1d9e1?source=rss-cba96b45006f------2)
+*Published on: September 10, 2024*
+
+In the ever-evolving landscape of IT and system administration, the tools we use to manage our environments are pivotal to our efficiency and effectiveness. Among these tools, PowerShell stands out as a transformative force, initially designed for Windows but now embracing a broader, cross-platform vision. As IT professionals navigate increasingly complex infrastructures, understanding the evolution of PowerShell is not just beneficial — it’s ess...
+
+---
+
 ## [PowerShell and OpenSSH: Enhancing Cross-Platform Management](https://medium.com/tomtalkspowershell/powershell-and-openssh-enhancing-cross-platform-management-bc20fe8c7ac1?source=rss-cba96b45006f------2)
 *Published on: September 09, 2024*
 
@@ -58,20 +72,6 @@ In today’s fast-paced IT landscape, system administrators and IT professionals
 *Published on: September 03, 2024*
 
 In the ever-evolving information technology landscape, efficiency, and automation are paramount for success. As systems grow more complex and the demands on IT professionals increase, mastering tools that streamline workflows becomes essential. PowerShell, a powerful task automation framework developed by Microsoft, stands out as a critical skill for system administrators and IT professionals. It allows users to automate repetitive tasks, manage ...
-
----
-
-## [SciPy vs. NumPy: A Comprehensive Comparison](https://tomtalksit.medium.com/scipy-vs-numpy-a-comprehensive-comparison-5c0f804c9922?source=rss-cba96b45006f------2)
-*Published on: September 03, 2024*
-
-In the ever-evolving landscape of data science and scientific computing, choosing the right tools can significantly impact both the efficiency and effectiveness of your projects. Among the myriad of libraries available in the Python ecosystem, two stand out for their extensive use and powerful capabilities: NumPy and SciPy. While they are often mentioned together and even used in conjunction, understanding their differences is crucial for anyone ...
-
----
-
-## [Getting Started with SciPy](https://tomtalksit.medium.com/getting-started-with-scipy-9a980a884838?source=rss-cba96b45006f------2)
-*Published on: September 02, 2024*
-
-In an era where data reigns supreme, the ability to analyze and manipulate numerical information is more crucial than ever. Whether you’re a student delving into the world of scientific computing, a researcher seeking to streamline your data analysis, or a developer looking to enhance your projects with powerful libraries, understanding how to leverage tools like SciPy can be a game changer. SciPy, a cornerstone of the Python scientific ecosystem...
 
 ---
 
