@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Creating GUI Applications with PowerShell: A Step-by-Step Guide](https://medium.com/tomtalkspowershell/creating-gui-applications-with-powershell-a-step-by-step-guide-2713997728ef?source=rss-cba96b45006f------2)
+*Published on: September 12, 2024*
+
+In the fast-paced world of IT and system administration, efficiency is paramount. As system administrators and IT professionals, we often find ourselves juggling multiple tasks, scripts, and command-line operations to manage our environments effectively. However, the traditional command-line interface, while powerful, can be daunting for users who are not well-versed in scripting languages. This is where PowerShell comes to the rescue, offering a...
+
+---
+
+## [Statistical Analysis Using SciPy](https://medium.com/tomtalkspython/statistical-analysis-using-scipy-6db9fa891903?source=rss-cba96b45006f------2)
+*Published on: September 12, 2024*
+
+In an era where data drives decision-making across industries, the ability to conduct robust statistical analysis has never been more critical. Whether you’re a data scientist, researcher, or business analyst, understanding the intricacies of statistical methods can unlock insights that propel your work forward. With countless datasets available at our fingertips, the question arises: how can we effectively analyze this data to validate hypothese...
+
+---
+
 ## [Solving Differential Equations with SciPy](https://medium.com/tomtalkspython/solving-differential-equations-with-scipy-155409589aae?source=rss-cba96b45006f------2)
 *Published on: September 11, 2024*
 
@@ -58,20 +72,6 @@ In today’s fast-paced technological landscape, efficiency is paramount. Whethe
 *Published on: September 05, 2024*
 
 In an era where data drives innovation and decision-making, machine learning has emerged as a transformative force across industries. From healthcare to finance, the ability to analyze vast amounts of data and extract meaningful insights has never been more critical. As practitioners and enthusiasts delve into the world of machine learning, the tools and libraries they choose can significantly impact their success. Among these, SciPy stands out a...
-
----
-
-## [Advanced PowerShell Scripting: Tips for Optimizing Performance and Security](https://tomtalksit.medium.com/advanced-powershell-scripting-tips-for-optimizing-performance-and-security-60e6534bbe86?source=rss-cba96b45006f------2)
-*Published on: September 05, 2024*
-
-In the rapidly evolving landscape of IT management, system administrators and IT professionals are constantly seeking ways to enhance efficiency and maintain robust security protocols. PowerShell, Microsoft’s powerful scripting language, has emerged as an indispensable tool for automating tasks, managing configurations, and streamlining processes across diverse IT environments. However, to truly harness the power of PowerShell, one must go beyond...
-
----
-
-## [Top 10 SciPy Functions for Data Analysis](https://tomtalksit.medium.com/top-10-scipy-functions-for-data-analysis-d5f0812cc7e8?source=rss-cba96b45006f------2)
-*Published on: September 04, 2024*
-
-In an era dominated by data, the ability to extract meaningful insights from vast datasets is more critical than ever. As businesses, researchers, and data enthusiasts strive to harness the power of data analysis, the tools at their disposal can make all the difference. Among these tools, SciPy stands out as a cornerstone library in the Python ecosystem, offering a wealth of functions designed for scientific and technical computing. Whether you a...
 
 ---
 
