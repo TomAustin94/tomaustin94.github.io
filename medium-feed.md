@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Converting PowerShell Scripts to Executable Files: A Practical Guide](https://medium.com/tomtalkspowershell/converting-powershell-scripts-to-executable-files-a-practical-guide-67ae325a17bc?source=rss-cba96b45006f------2)
+*Published on: September 13, 2024*
+
+In the ever-evolving landscape of IT and system administration, efficiency and streamlined processes are paramount. PowerShell has emerged as a powerful tool for automating tasks, managing configurations, and orchestrating complex workflows. However, sharing and executing PowerShell scripts can sometimes be cumbersome, especially in environments where users may not have the necessary permissions or familiarity with the command line. This is where...
+
+---
+
 ## [Creating GUI Applications with PowerShell: A Step-by-Step Guide](https://medium.com/tomtalkspowershell/creating-gui-applications-with-powershell-a-step-by-step-guide-2713997728ef?source=rss-cba96b45006f------2)
 *Published on: September 12, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced IT landscape, where cloud computing has become a corners
 *Published on: September 06, 2024*
 
 In today’s fast-paced technological landscape, efficiency is paramount. Whether you’re developing cutting-edge applications, conducting scientific research, or analyzing vast datasets, the performance of your code can significantly impact outcomes. Optimizing code not only enhances speed but also conserves computational resources, making it a vital skill for developers and data scientists alike. Enter SciPy, a powerful library that extends the ca...
-
----
-
-## [SciPy for Machine Learning](https://tomtalksit.medium.com/scipy-for-machine-learning-6cc8947dcc1d?source=rss-cba96b45006f------2)
-*Published on: September 05, 2024*
-
-In an era where data drives innovation and decision-making, machine learning has emerged as a transformative force across industries. From healthcare to finance, the ability to analyze vast amounts of data and extract meaningful insights has never been more critical. As practitioners and enthusiasts delve into the world of machine learning, the tools and libraries they choose can significantly impact their success. Among these, SciPy stands out a...
 
 ---
 
