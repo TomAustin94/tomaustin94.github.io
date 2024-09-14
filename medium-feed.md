@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [SciPy for Image Processing](https://medium.com/tomtalkspython/scipy-for-image-processing-c823b5c0b96b?source=rss-cba96b45006f------2)
+*Published on: September 13, 2024*
+
+In an era where visual content dominates our digital landscape, from social media feeds to scientific research, the ability to manipulate and analyze images has never been more crucial. Whether it’s enhancing a photograph, extracting features from medical images, or performing complex transformations for machine learning applications, image processing plays a pivotal role across various fields. Enter SciPy, a powerful library in Python that provi...
+
+---
+
 ## [Converting PowerShell Scripts to Executable Files: A Practical Guide](https://medium.com/tomtalkspowershell/converting-powershell-scripts-to-executable-files-a-practical-guide-67ae325a17bc?source=rss-cba96b45006f------2)
 *Published on: September 13, 2024*
 
@@ -65,13 +72,6 @@ In today’s dynamic IT landscape, where hybrid infrastructures and diverse oper
 *Published on: September 06, 2024*
 
 In today’s fast-paced IT landscape, where cloud computing has become a cornerstone of modern infrastructure, the ability to efficiently manage and automate tasks across platforms is paramount. System administrators and IT professionals are continually tasked with the challenge of ensuring seamless operations in complex environments that encompass both on-premises and cloud resources. Amidst this complexity, PowerShell emerges as a powerful ally, ...
-
----
-
-## [Optimizing Code with SciPy](https://tomtalksit.medium.com/optimizing-code-with-scipy-e4e283b75143?source=rss-cba96b45006f------2)
-*Published on: September 06, 2024*
-
-In today’s fast-paced technological landscape, efficiency is paramount. Whether you’re developing cutting-edge applications, conducting scientific research, or analyzing vast datasets, the performance of your code can significantly impact outcomes. Optimizing code not only enhances speed but also conserves computational resources, making it a vital skill for developers and data scientists alike. Enter SciPy, a powerful library that extends the ca...
 
 ---
 
