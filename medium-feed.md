@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Advanced SciPy Techniques](https://medium.com/tomtalkspython/advanced-scipy-techniques-b511b15eea76?source=rss-cba96b45006f------2)
+*Published on: September 16, 2024*
+
+In an era where data-driven decision-making is at the forefront of innovation, mastering scientific computing tools has never been more crucial. SciPy, a cornerstone of the scientific Python ecosystem, offers an extensive array of functionalities that empower researchers, engineers, and data scientists to solve complex problems efficiently. While many users are familiar with the basics, the true power of SciPy lies in its advanced features, which...
+
+---
+
+## [Getting Started with Azure PowerShell: A Comprehensive Beginners Guide](https://medium.com/tomtalkspowershell/getting-started-with-azure-powershell-a-comprehensive-beginners-guide-3b518bb6a853?source=rss-cba96b45006f------2)
+*Published on: September 16, 2024*
+
+In today’s fast-paced IT landscape, cloud computing has become an essential component of modern system administration. Among the leading cloud service providers, Microsoft Azure stands out, offering a robust platform for deploying, managing, and scaling applications and services. As organizations increasingly migrate their workloads to the cloud, system administrators and IT professionals must equip themselves with the necessary tools to manage t...
+
+---
+
 ## [SciPy for Image Processing](https://medium.com/tomtalkspython/scipy-for-image-processing-c823b5c0b96b?source=rss-cba96b45006f------2)
 *Published on: September 13, 2024*
 
@@ -58,20 +72,6 @@ In an era where data is generated at an unprecedented scale and speed, the abili
 *Published on: September 10, 2024*
 
 In the ever-evolving landscape of IT and system administration, the tools we use to manage our environments are pivotal to our efficiency and effectiveness. Among these tools, PowerShell stands out as a transformative force, initially designed for Windows but now embracing a broader, cross-platform vision. As IT professionals navigate increasingly complex infrastructures, understanding the evolution of PowerShell is not just beneficial — it’s ess...
-
----
-
-## [PowerShell and OpenSSH: Enhancing Cross-Platform Management](https://medium.com/tomtalkspowershell/powershell-and-openssh-enhancing-cross-platform-management-bc20fe8c7ac1?source=rss-cba96b45006f------2)
-*Published on: September 09, 2024*
-
-In today’s dynamic IT landscape, where hybrid infrastructures and diverse operating environments are the norm, system administrators and IT professionals are continuously seeking tools that streamline management and enhance efficiency. The rise of DevOps practices and the increasing demand for cross-platform capabilities necessitate innovative solutions that transcend the traditional boundaries of operating systems. Enter PowerShell and OpenSSH —...
-
----
-
-## [Integrating PowerShell with Cloud Services: Automate Azure and AWS Tasks](https://tomtalksit.medium.com/integrating-powershell-with-cloud-services-automate-azure-and-aws-tasks-a68a56d29475?source=rss-cba96b45006f------2)
-*Published on: September 06, 2024*
-
-In today’s fast-paced IT landscape, where cloud computing has become a cornerstone of modern infrastructure, the ability to efficiently manage and automate tasks across platforms is paramount. System administrators and IT professionals are continually tasked with the challenge of ensuring seamless operations in complex environments that encompass both on-premises and cloud resources. Amidst this complexity, PowerShell emerges as a powerful ally, ...
 
 ---
 
