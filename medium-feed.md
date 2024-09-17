@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [SciPy in Data Science Projects](https://medium.com/tomtalkspython/scipy-in-data-science-projects-f6cac7d03e91?source=rss-cba96b45006f------2)
+*Published on: September 17, 2024*
+
+In an era where data is often hailed as the new oil, the tools we choose to extract valuable insights from this resource are more critical than ever. Among the myriad of libraries available in the Python ecosystem, SciPy stands out as a powerful tool for scientific and technical computing. Its extensive collection of algorithms and functions makes it an indispensable asset for data scientists tackling complex problems across diverse domains. From...
+
+---
+
+## [Top 10 Cmdlets Every Azure PowerShell User Should Know](https://medium.com/tomtalkspowershell/top-10-cmdlets-every-azure-powershell-user-should-know-722ad5eab4e2?source=rss-cba96b45006f------2)
+*Published on: September 17, 2024*
+
+In today’s fast-paced digital landscape, effective management of cloud resources is more critical than ever for system administrators and IT professionals. As organizations increasingly adopt Azure as their cloud platform of choice, the ability to manage these resources efficiently becomes paramount. Enter Azure PowerShell — a powerful scripting and automation tool that empowers IT pros to streamline their workflows and optimize resource manageme...
+
+---
+
 ## [Advanced SciPy Techniques](https://medium.com/tomtalkspython/advanced-scipy-techniques-b511b15eea76?source=rss-cba96b45006f------2)
 *Published on: September 16, 2024*
 
@@ -58,20 +72,6 @@ In a world driven by data and complex systems, the ability to model and analyze 
 *Published on: September 11, 2024*
 
 In this blog post, we will explore the future trends shaping PowerShell, particularly the integration of artificial intelligence and its role in streamlining IT processes. We will delve into how PowerShell’s capabilities are expanding to meet the demands of contemporary system administration, enabling professionals to automate repetitive tasks, manage configurations seamlessly, and leverage intelligent automation to drive productivity. From AI-dr...
-
----
-
-## [SciPy for Signal Processing](https://medium.com/tomtalkspython/scipy-for-signal-processing-2fa2c8a290c4?source=rss-cba96b45006f------2)
-*Published on: September 10, 2024*
-
-In an era where data is generated at an unprecedented scale and speed, the ability to analyze and manipulate signals has become crucial across various fields, from telecommunications to biomedical engineering. Signal processing is the backbone of technologies that enhance our everyday lives, whether it’s filtering noise from audio recordings, analyzing seismic activity, or improving the quality of images in medical diagnostics. As we delve into t...
-
----
-
-## [The Evolution of PowerShell: From Windows to Cross-Platform Management](https://medium.com/tomtalkspowershell/the-evolution-of-powershell-from-windows-to-cross-platform-management-2bd34bb1d9e1?source=rss-cba96b45006f------2)
-*Published on: September 10, 2024*
-
-In the ever-evolving landscape of IT and system administration, the tools we use to manage our environments are pivotal to our efficiency and effectiveness. Among these tools, PowerShell stands out as a transformative force, initially designed for Windows but now embracing a broader, cross-platform vision. As IT professionals navigate increasingly complex infrastructures, understanding the evolution of PowerShell is not just beneficial — it’s ess...
 
 ---
 
