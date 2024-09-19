@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Understanding Azure Resource Manager through PowerShell](https://medium.com/tomtalkspowershell/understanding-azure-resource-manager-through-powershell-57a4d22acac7?source=rss-cba96b45006f------2)
+*Published on: September 19, 2024*
+
+In today’s fast-paced IT landscape, the ability to efficiently manage cloud resources is paramount for system administrators and IT professionals. As organizations increasingly migrate to the cloud, understanding how to leverage powerful tools for resource management becomes essential. Azure Resource Manager (ARM) stands at the forefront of this evolution, providing a robust framework for deploying and managing Azure resources. With the right ski...
+
+---
+
+## [Creating Your First Game in Pygame](https://medium.com/tomtalkspython/creating-your-first-game-in-pygame-865325b59df7?source=rss-cba96b45006f------2)
+*Published on: September 19, 2024*
+
+In today’s digital landscape, video games have become an integral part of our culture, providing entertainment, education, and even therapy. With the rise of indie games and accessible game development tools, more people than ever are inspired to create their own gaming experiences. Among these tools, Pygame stands out as a fantastic option for beginners. It’s a Python library designed to make game development straightforward and fun, allowing as...
+
+---
+
 ## [Automating Azure Management Tasks with PowerShell](https://medium.com/tomtalkspowershell/automating-azure-management-tasks-with-powershell-61f671ceb1a9?source=rss-cba96b45006f------2)
 *Published on: September 18, 2024*
 
@@ -58,20 +72,6 @@ In an era where visual content dominates our digital landscape, from social medi
 *Published on: September 13, 2024*
 
 In the ever-evolving landscape of IT and system administration, efficiency and streamlined processes are paramount. PowerShell has emerged as a powerful tool for automating tasks, managing configurations, and orchestrating complex workflows. However, sharing and executing PowerShell scripts can sometimes be cumbersome, especially in environments where users may not have the necessary permissions or familiarity with the command line. This is where...
-
----
-
-## [Creating GUI Applications with PowerShell: A Step-by-Step Guide](https://medium.com/tomtalkspowershell/creating-gui-applications-with-powershell-a-step-by-step-guide-2713997728ef?source=rss-cba96b45006f------2)
-*Published on: September 12, 2024*
-
-In the fast-paced world of IT and system administration, efficiency is paramount. As system administrators and IT professionals, we often find ourselves juggling multiple tasks, scripts, and command-line operations to manage our environments effectively. However, the traditional command-line interface, while powerful, can be daunting for users who are not well-versed in scripting languages. This is where PowerShell comes to the rescue, offering a...
-
----
-
-## [Statistical Analysis Using SciPy](https://medium.com/tomtalkspython/statistical-analysis-using-scipy-6db9fa891903?source=rss-cba96b45006f------2)
-*Published on: September 12, 2024*
-
-In an era where data drives decision-making across industries, the ability to conduct robust statistical analysis has never been more critical. Whether you’re a data scientist, researcher, or business analyst, understanding the intricacies of statistical methods can unlock insights that propel your work forward. With countless datasets available at our fingertips, the question arises: how can we effectively analyze this data to validate hypothese...
 
 ---
 
