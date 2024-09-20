@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Best Practices for Securing Azure Environments with PowerShell](https://medium.com/tomtalkspowershell/best-practices-for-securing-azure-environments-with-powershell-857e47a341ac?source=rss-cba96b45006f------2)
+*Published on: September 20, 2024*
+
+In today’s rapidly evolving digital landscape, securing cloud environments has become a top priority for IT professionals and system administrators. As organizations increasingly migrate to the cloud, the need for robust security measures to protect sensitive data and applications cannot be overstated. Microsoft Azure, one of the leading cloud platforms, offers a plethora of tools and features designed to enhance security. However, leveraging the...
+
+---
+
+## [Best Tutorials to Learn Pygame](https://medium.com/tomtalkspython/best-tutorials-to-learn-pygame-7140bab17762?source=rss-cba96b45006f------2)
+*Published on: September 20, 2024*
+
+In today’s digital age, game development has become an accessible and exciting avenue for creative expression and technical skill-building. Among the various tools available, Pygame stands out as a powerful library that allows aspiring developers to create engaging 2D games using Python. Whether you’re an absolute beginner looking to dip your toes into the world of game design or a programmer seeking to enhance your skills, learning Pygame can be...
+
+---
+
 ## [Understanding Azure Resource Manager through PowerShell](https://medium.com/tomtalkspowershell/understanding-azure-resource-manager-through-powershell-57a4d22acac7?source=rss-cba96b45006f------2)
 *Published on: September 19, 2024*
 
@@ -58,20 +72,6 @@ In an era where data-driven decision-making is at the forefront of innovation, m
 *Published on: September 16, 2024*
 
 In today’s fast-paced IT landscape, cloud computing has become an essential component of modern system administration. Among the leading cloud service providers, Microsoft Azure stands out, offering a robust platform for deploying, managing, and scaling applications and services. As organizations increasingly migrate their workloads to the cloud, system administrators and IT professionals must equip themselves with the necessary tools to manage t...
-
----
-
-## [SciPy for Image Processing](https://medium.com/tomtalkspython/scipy-for-image-processing-c823b5c0b96b?source=rss-cba96b45006f------2)
-*Published on: September 13, 2024*
-
-In an era where visual content dominates our digital landscape, from social media feeds to scientific research, the ability to manipulate and analyze images has never been more crucial. Whether it’s enhancing a photograph, extracting features from medical images, or performing complex transformations for machine learning applications, image processing plays a pivotal role across various fields. Enter SciPy, a powerful library in Python that provi...
-
----
-
-## [Converting PowerShell Scripts to Executable Files: A Practical Guide](https://medium.com/tomtalkspowershell/converting-powershell-scripts-to-executable-files-a-practical-guide-67ae325a17bc?source=rss-cba96b45006f------2)
-*Published on: September 13, 2024*
-
-In the ever-evolving landscape of IT and system administration, efficiency and streamlined processes are paramount. PowerShell has emerged as a powerful tool for automating tasks, managing configurations, and orchestrating complex workflows. However, sharing and executing PowerShell scripts can sometimes be cumbersome, especially in environments where users may not have the necessary permissions or familiarity with the command line. This is where...
 
 ---
 
