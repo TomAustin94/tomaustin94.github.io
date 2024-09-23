@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Using Azure PowerShell to Deploy Virtual Machines](https://medium.com/tomtalkspowershell/using-azure-powershell-to-deploy-virtual-machines-9280687f2ea6?source=rss-cba96b45006f------2)
+*Published on: September 23, 2024*
+
+In today’s fast-paced IT landscape, the ability to efficiently deploy and manage virtual machines (VMs) is essential for system administrators and IT professionals. As organizations increasingly migrate to cloud environments, mastering tools like Azure PowerShell becomes crucial for ensuring streamlined operations and effective resource management. Azure PowerShell offers a powerful command-line interface that enables you to automate and manage A...
+
+---
+
 ## [Best Practices for Securing Azure Environments with PowerShell](https://medium.com/tomtalkspowershell/best-practices-for-securing-azure-environments-with-powershell-857e47a341ac?source=rss-cba96b45006f------2)
 *Published on: September 20, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced digital landscape, effective management of cloud resourc
 *Published on: September 16, 2024*
 
 In an era where data-driven decision-making is at the forefront of innovation, mastering scientific computing tools has never been more crucial. SciPy, a cornerstone of the scientific Python ecosystem, offers an extensive array of functionalities that empower researchers, engineers, and data scientists to solve complex problems efficiently. While many users are familiar with the basics, the true power of SciPy lies in its advanced features, which...
-
----
-
-## [Getting Started with Azure PowerShell: A Comprehensive Beginners Guide](https://medium.com/tomtalkspowershell/getting-started-with-azure-powershell-a-comprehensive-beginners-guide-3b518bb6a853?source=rss-cba96b45006f------2)
-*Published on: September 16, 2024*
-
-In today’s fast-paced IT landscape, cloud computing has become an essential component of modern system administration. Among the leading cloud service providers, Microsoft Azure stands out, offering a robust platform for deploying, managing, and scaling applications and services. As organizations increasingly migrate their workloads to the cloud, system administrators and IT professionals must equip themselves with the necessary tools to manage t...
 
 ---
 
