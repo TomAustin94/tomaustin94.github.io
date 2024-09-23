@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Game Development Concepts Using Pygame](https://medium.com/tomtalkspython/game-development-concepts-using-pygame-9143c28f59cc?source=rss-cba96b45006f------2)
+*Published on: September 23, 2024*
+
+In an age where gaming has rapidly evolved into a multi-billion dollar industry, the allure of creating your own video game has never been more enticing. Aspiring developers are constantly seeking ways to translate their creative ideas into playable experiences, and one of the most accessible platforms to begin this journey is Pygame. This powerful library, built on top of Python, allows developers to dive into the world of game development with ...
+
+---
+
 ## [Using Azure PowerShell to Deploy Virtual Machines](https://medium.com/tomtalkspowershell/using-azure-powershell-to-deploy-virtual-machines-9280687f2ea6?source=rss-cba96b45006f------2)
 *Published on: September 23, 2024*
 
@@ -65,13 +72,6 @@ In an era where data is often hailed as the new oil, the tools we choose to extr
 *Published on: September 17, 2024*
 
 In today’s fast-paced digital landscape, effective management of cloud resources is more critical than ever for system administrators and IT professionals. As organizations increasingly adopt Azure as their cloud platform of choice, the ability to manage these resources efficiently becomes paramount. Enter Azure PowerShell — a powerful scripting and automation tool that empowers IT pros to streamline their workflows and optimize resource manageme...
-
----
-
-## [Advanced SciPy Techniques](https://medium.com/tomtalkspython/advanced-scipy-techniques-b511b15eea76?source=rss-cba96b45006f------2)
-*Published on: September 16, 2024*
-
-In an era where data-driven decision-making is at the forefront of innovation, mastering scientific computing tools has never been more crucial. SciPy, a cornerstone of the scientific Python ecosystem, offers an extensive array of functionalities that empower researchers, engineers, and data scientists to solve complex problems efficiently. While many users are familiar with the basics, the true power of SciPy lies in its advanced features, which...
 
 ---
 
