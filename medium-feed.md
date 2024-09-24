@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Mastering Tkinter: A Beginner’s Guide to Python GUI Development](https://medium.com/tomtalkspython/mastering-tkinter-a-beginners-guide-to-python-gui-development-fd151a8b0903?source=rss-cba96b45006f------2)
+*Published on: September 24, 2024*
+
+In today’s digital age, where applications seamlessly blend into our daily lives, the ability to create visually engaging software has never been more relevant. Whether you’re a student, a hobbyist, or an aspiring developer, mastering graphical user interfaces (GUIs) can unlock a world of possibilities in desktop application development. Among the myriad of tools available, Tkinter stands out as a powerful yet accessible library for Python, enabl...
+
+---
+
+## [A Deep Dive into Azure PowerShell Modules](https://medium.com/tomtalkspowershell/a-deep-dive-into-azure-powershell-modules-b1baf77a3d3a?source=rss-cba96b45006f------2)
+*Published on: September 24, 2024*
+
+In the rapidly evolving landscape of cloud computing, Azure has emerged as one of the leading platforms for businesses seeking scalability, reliability, and innovation. For IT professionals and system administrators, mastering Azure is not just advantageous — it’s essential. One of the most powerful tools at your disposal in this realm is Azure PowerShell, a robust command-line interface that allows for seamless management and automation of Azure...
+
+---
+
 ## [Game Development Concepts Using Pygame](https://medium.com/tomtalkspython/game-development-concepts-using-pygame-9143c28f59cc?source=rss-cba96b45006f------2)
 *Published on: September 23, 2024*
 
@@ -58,20 +72,6 @@ In today’s fast-paced IT landscape, where cloud computing is becoming the norm
 *Published on: September 18, 2024*
 
 In a world increasingly driven by technology and interactive experiences, the allure of game development has captivated many aspiring creators. Whether you dream of building the next blockbuster game or simply want to explore your creativity through coding, Pygame offers an accessible gateway into the world of game development. This powerful library, built on Python, allows beginners to dive into 2D game programming without the steep learning cur...
-
----
-
-## [SciPy in Data Science Projects](https://medium.com/tomtalkspython/scipy-in-data-science-projects-f6cac7d03e91?source=rss-cba96b45006f------2)
-*Published on: September 17, 2024*
-
-In an era where data is often hailed as the new oil, the tools we choose to extract valuable insights from this resource are more critical than ever. Among the myriad of libraries available in the Python ecosystem, SciPy stands out as a powerful tool for scientific and technical computing. Its extensive collection of algorithms and functions makes it an indispensable asset for data scientists tackling complex problems across diverse domains. From...
-
----
-
-## [Top 10 Cmdlets Every Azure PowerShell User Should Know](https://medium.com/tomtalkspowershell/top-10-cmdlets-every-azure-powershell-user-should-know-722ad5eab4e2?source=rss-cba96b45006f------2)
-*Published on: September 17, 2024*
-
-In today’s fast-paced digital landscape, effective management of cloud resources is more critical than ever for system administrators and IT professionals. As organizations increasingly adopt Azure as their cloud platform of choice, the ability to manage these resources efficiently becomes paramount. Enter Azure PowerShell — a powerful scripting and automation tool that empowers IT pros to streamline their workflows and optimize resource manageme...
 
 ---
 
