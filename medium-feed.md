@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [10 Must-Know Tkinter Widgets for Stunning Python GUIs](https://medium.com/tomtalkspython/10-must-know-tkinter-widgets-for-stunning-python-guis-80ec1b7e0f33?source=rss-cba96b45006f------2)
+*Published on: September 25, 2024*
+
+In today’s digital landscape, the demand for intuitive and visually appealing user interfaces is higher than ever. As Python continues to dominate the programming world, developers are increasingly seeking efficient ways to create stunning graphical user interfaces (GUIs) that enhance user experience. Tkinter, Python’s standard GUI toolkit, emerges as a powerful ally in this quest, offering a rich set of widgets that can transform simple scripts ...
+
+---
+
 ## [Creating and Managing Azure Resource Groups with PowerShell](https://medium.com/tomtalkspowershell/creating-and-managing-azure-resource-groups-with-powershell-b8116438e2c0?source=rss-cba96b45006f------2)
 *Published on: September 25, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced IT landscape, the ability to efficiently manage cloud re
 *Published on: September 19, 2024*
 
 In today’s digital landscape, video games have become an integral part of our culture, providing entertainment, education, and even therapy. With the rise of indie games and accessible game development tools, more people than ever are inspired to create their own gaming experiences. Among these tools, Pygame stands out as a fantastic option for beginners. It’s a Python library designed to make game development straightforward and fun, allowing as...
-
----
-
-## [Automating Azure Management Tasks with PowerShell](https://medium.com/tomtalkspowershell/automating-azure-management-tasks-with-powershell-61f671ceb1a9?source=rss-cba96b45006f------2)
-*Published on: September 18, 2024*
-
-In today’s fast-paced IT landscape, where cloud computing is becoming the norm, system administrators and IT professionals are tasked with managing increasingly complex environments. Microsoft Azure, as a leading cloud platform, offers a plethora of services and resources that can streamline operations and enhance productivity. However, the manual management of these resources can be time-consuming and prone to human error. This is where automati...
 
 ---
 
