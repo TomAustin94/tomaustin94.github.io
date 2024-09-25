@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Creating and Managing Azure Resource Groups with PowerShell](https://medium.com/tomtalkspowershell/creating-and-managing-azure-resource-groups-with-powershell-b8116438e2c0?source=rss-cba96b45006f------2)
+*Published on: September 25, 2024*
+
+In today’s fast-paced IT landscape, effective resource management is critical for maintaining operational efficiency and ensuring that cloud environments are both scalable and cost-effective. As organizations increasingly migrate to the cloud, understanding how to organize and manage resources becomes paramount. Azure Resource Groups serve as a fundamental building block in Microsoft Azure, allowing system administrators and IT professionals to g...
+
+---
+
 ## [Mastering Tkinter: A Beginner’s Guide to Python GUI Development](https://medium.com/tomtalkspython/mastering-tkinter-a-beginners-guide-to-python-gui-development-fd151a8b0903?source=rss-cba96b45006f------2)
 *Published on: September 24, 2024*
 
@@ -65,13 +72,6 @@ In today’s digital landscape, video games have become an integral part of our 
 *Published on: September 18, 2024*
 
 In today’s fast-paced IT landscape, where cloud computing is becoming the norm, system administrators and IT professionals are tasked with managing increasingly complex environments. Microsoft Azure, as a leading cloud platform, offers a plethora of services and resources that can streamline operations and enhance productivity. However, the manual management of these resources can be time-consuming and prone to human error. This is where automati...
-
----
-
-## [Getting Started with Pygame: A Beginner’s Guide](https://medium.com/tomtalkspython/getting-started-with-pygame-a-beginners-guide-989b4302422f?source=rss-cba96b45006f------2)
-*Published on: September 18, 2024*
-
-In a world increasingly driven by technology and interactive experiences, the allure of game development has captivated many aspiring creators. Whether you dream of building the next blockbuster game or simply want to explore your creativity through coding, Pygame offers an accessible gateway into the world of game development. This powerful library, built on Python, allows beginners to dive into 2D game programming without the steep learning cur...
 
 ---
 
