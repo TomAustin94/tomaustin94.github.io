@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Building a Weather App with Tkinter and Python: Step-by-Step Tutorial](https://medium.com/tomtalkspython/building-a-weather-app-with-tkinter-and-python-step-by-step-tutorial-5cd0cac14f6c?source=rss-cba96b45006f------2)
+*Published on: September 26, 2024*
+
+In today’s fast-paced world, staying informed about the weather is more important than ever. Whether you’re planning a weekend getaway, gearing up for an outdoor event, or just want to know if you need an umbrella on your way to work, having access to real-time weather data can make a significant difference in your daily life. With the rise of technology, building your weather application has never been more accessible, especially with powerful t...
+
+---
+
+## [PowerShell for Azure DevOps: Streamlining Your CI/CD Pipeline](https://medium.com/tomtalkspowershell/powershell-for-azure-devops-streamlining-your-ci-cd-pipeline-440343ceea0a?source=rss-cba96b45006f------2)
+*Published on: September 26, 2024*
+
+In today’s fast-paced IT landscape, the ability to swiftly and efficiently deploy applications is paramount. As organizations increasingly adopt DevOps practices, system administrators and IT professionals find themselves at the forefront of ensuring that Continuous Integration and Continuous Deployment (CI/CD) pipelines are not only functional but also optimized for performance and reliability. PowerShell, a powerful scripting language and autom...
+
+---
+
 ## [10 Must-Know Tkinter Widgets for Stunning Python GUIs](https://medium.com/tomtalkspython/10-must-know-tkinter-widgets-for-stunning-python-guis-80ec1b7e0f33?source=rss-cba96b45006f------2)
 *Published on: September 25, 2024*
 
@@ -58,20 +72,6 @@ In today’s rapidly evolving digital landscape, securing cloud environments has
 *Published on: September 20, 2024*
 
 In today’s digital age, game development has become an accessible and exciting avenue for creative expression and technical skill-building. Among the various tools available, Pygame stands out as a powerful library that allows aspiring developers to create engaging 2D games using Python. Whether you’re an absolute beginner looking to dip your toes into the world of game design or a programmer seeking to enhance your skills, learning Pygame can be...
-
----
-
-## [Understanding Azure Resource Manager through PowerShell](https://medium.com/tomtalkspowershell/understanding-azure-resource-manager-through-powershell-57a4d22acac7?source=rss-cba96b45006f------2)
-*Published on: September 19, 2024*
-
-In today’s fast-paced IT landscape, the ability to efficiently manage cloud resources is paramount for system administrators and IT professionals. As organizations increasingly migrate to the cloud, understanding how to leverage powerful tools for resource management becomes essential. Azure Resource Manager (ARM) stands at the forefront of this evolution, providing a robust framework for deploying and managing Azure resources. With the right ski...
-
----
-
-## [Creating Your First Game in Pygame](https://medium.com/tomtalkspython/creating-your-first-game-in-pygame-865325b59df7?source=rss-cba96b45006f------2)
-*Published on: September 19, 2024*
-
-In today’s digital landscape, video games have become an integral part of our culture, providing entertainment, education, and even therapy. With the rise of indie games and accessible game development tools, more people than ever are inspired to create their own gaming experiences. Among these tools, Pygame stands out as a fantastic option for beginners. It’s a Python library designed to make game development straightforward and fun, allowing as...
 
 ---
 
