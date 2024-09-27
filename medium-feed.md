@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Integrating PowerShell with Azure Functions for Automation](https://medium.com/tomtalkspowershell/integrating-powershell-with-azure-functions-for-automation-48a30c89fd4e?source=rss-cba96b45006f------2)
+*Published on: September 27, 2024*
+
+In today’s fast-paced IT landscape, automation has become an essential practice for system administrators and IT professionals looking to streamline operations and enhance efficiency. With the ever-increasing complexity of cloud environments, the need for robust automation solutions is more pressing than ever. Enter Azure Functions — Microsoft’s serverless compute service that allows you to run code on-demand without having to manage infrastructu...
+
+---
+
 ## [Building a Weather App with Tkinter and Python: Step-by-Step Tutorial](https://medium.com/tomtalkspython/building-a-weather-app-with-tkinter-and-python-step-by-step-tutorial-5cd0cac14f6c?source=rss-cba96b45006f------2)
 *Published on: September 26, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced IT landscape, the ability to efficiently deploy and mana
 *Published on: September 20, 2024*
 
 In today’s rapidly evolving digital landscape, securing cloud environments has become a top priority for IT professionals and system administrators. As organizations increasingly migrate to the cloud, the need for robust security measures to protect sensitive data and applications cannot be overstated. Microsoft Azure, one of the leading cloud platforms, offers a plethora of tools and features designed to enhance security. However, leveraging the...
-
----
-
-## [Best Tutorials to Learn Pygame](https://medium.com/tomtalkspython/best-tutorials-to-learn-pygame-7140bab17762?source=rss-cba96b45006f------2)
-*Published on: September 20, 2024*
-
-In today’s digital age, game development has become an accessible and exciting avenue for creative expression and technical skill-building. Among the various tools available, Pygame stands out as a powerful library that allows aspiring developers to create engaging 2D games using Python. Whether you’re an absolute beginner looking to dip your toes into the world of game design or a programmer seeking to enhance your skills, learning Pygame can be...
 
 ---
 
