@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Tkinter vs. PyQt: Choosing the Right GUI Framework for Your Python Project](https://medium.com/tomtalkspython/tkinter-vs-pyqt-choosing-the-right-gui-framework-for-your-python-project-46a804ec5d5b?source=rss-cba96b45006f------2)
+*Published on: September 27, 2024*
+
+In the ever-evolving landscape of software development, creating user-friendly graphical interfaces is more crucial than ever. As Python continues to dominate as a programming language for a wide array of applications — from web development to data science — the demand for robust and intuitive graphical user interfaces (GUIs) remains high. Among the myriad of options available, two frameworks stand out for their popularity and capabilities: Tkint...
+
+---
+
 ## [Integrating PowerShell with Azure Functions for Automation](https://medium.com/tomtalkspowershell/integrating-powershell-with-azure-functions-for-automation-48a30c89fd4e?source=rss-cba96b45006f------2)
 *Published on: September 27, 2024*
 
@@ -65,13 +72,6 @@ In an age where gaming has rapidly evolved into a multi-billion dollar industry,
 *Published on: September 23, 2024*
 
 In today’s fast-paced IT landscape, the ability to efficiently deploy and manage virtual machines (VMs) is essential for system administrators and IT professionals. As organizations increasingly migrate to cloud environments, mastering tools like Azure PowerShell becomes crucial for ensuring streamlined operations and effective resource management. Azure PowerShell offers a powerful command-line interface that enables you to automate and manage A...
-
----
-
-## [Best Practices for Securing Azure Environments with PowerShell](https://medium.com/tomtalkspowershell/best-practices-for-securing-azure-environments-with-powershell-857e47a341ac?source=rss-cba96b45006f------2)
-*Published on: September 20, 2024*
-
-In today’s rapidly evolving digital landscape, securing cloud environments has become a top priority for IT professionals and system administrators. As organizations increasingly migrate to the cloud, the need for robust security measures to protect sensitive data and applications cannot be overstated. Microsoft Azure, one of the leading cloud platforms, offers a plethora of tools and features designed to enhance security. However, leveraging the...
 
 ---
 
