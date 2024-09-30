@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [How to Use Azure PowerShell to Monitor Your Resources](https://medium.com/tomtalkspowershell/how-to-use-azure-powershell-to-monitor-your-resources-733140422488?source=rss-cba96b45006f------2)
+*Published on: September 30, 2024*
+
+In the ever-evolving landscape of IT infrastructure, the ability to monitor and manage resources efficiently is crucial for system administrators and IT professionals. As organizations increasingly migrate to the cloud, understanding how to leverage powerful tools like Azure PowerShell becomes imperative. With its rich set of cmdlets tailored for Azure, PowerShell not only simplifies resource management but also empowers administrators to gain de...
+
+---
+
 ## [Tkinter vs. PyQt: Choosing the Right GUI Framework for Your Python Project](https://medium.com/tomtalkspython/tkinter-vs-pyqt-choosing-the-right-gui-framework-for-your-python-project-46a804ec5d5b?source=rss-cba96b45006f------2)
 *Published on: September 27, 2024*
 
@@ -65,13 +72,6 @@ In the rapidly evolving landscape of cloud computing, Azure has emerged as one o
 *Published on: September 23, 2024*
 
 In an age where gaming has rapidly evolved into a multi-billion dollar industry, the allure of creating your own video game has never been more enticing. Aspiring developers are constantly seeking ways to translate their creative ideas into playable experiences, and one of the most accessible platforms to begin this journey is Pygame. This powerful library, built on top of Python, allows developers to dive into the world of game development with ...
-
----
-
-## [Using Azure PowerShell to Deploy Virtual Machines](https://medium.com/tomtalkspowershell/using-azure-powershell-to-deploy-virtual-machines-9280687f2ea6?source=rss-cba96b45006f------2)
-*Published on: September 23, 2024*
-
-In today’s fast-paced IT landscape, the ability to efficiently deploy and manage virtual machines (VMs) is essential for system administrators and IT professionals. As organizations increasingly migrate to cloud environments, mastering tools like Azure PowerShell becomes crucial for ensuring streamlined operations and effective resource management. Azure PowerShell offers a powerful command-line interface that enables you to automate and manage A...
 
 ---
 
