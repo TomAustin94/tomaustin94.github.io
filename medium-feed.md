@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Advanced Tkinter: Creating Custom Widgets and Styles](https://medium.com/tomtalkspython/advanced-tkinter-creating-custom-widgets-and-styles-0f2df4b28f7a?source=rss-cba96b45006f------2)
+*Published on: September 30, 2024*
+
+In today’s fast-paced digital landscape, the demand for intuitive and visually appealing user interfaces is greater than ever. As developers strive to create applications that not only function well but also captivate users, mastering GUI frameworks becomes essential. Among these frameworks, Tkinter stands out as a powerful and accessible option for building desktop applications in Python. However, many developers often scratch the surface with b...
+
+---
+
 ## [How to Use Azure PowerShell to Monitor Your Resources](https://medium.com/tomtalkspowershell/how-to-use-azure-powershell-to-monitor-your-resources-733140422488?source=rss-cba96b45006f------2)
 *Published on: September 30, 2024*
 
@@ -65,13 +72,6 @@ In today’s digital age, where applications seamlessly blend into our daily liv
 *Published on: September 24, 2024*
 
 In the rapidly evolving landscape of cloud computing, Azure has emerged as one of the leading platforms for businesses seeking scalability, reliability, and innovation. For IT professionals and system administrators, mastering Azure is not just advantageous — it’s essential. One of the most powerful tools at your disposal in this realm is Azure PowerShell, a robust command-line interface that allows for seamless management and automation of Azure...
-
----
-
-## [Game Development Concepts Using Pygame](https://medium.com/tomtalkspython/game-development-concepts-using-pygame-9143c28f59cc?source=rss-cba96b45006f------2)
-*Published on: September 23, 2024*
-
-In an age where gaming has rapidly evolved into a multi-billion dollar industry, the allure of creating your own video game has never been more enticing. Aspiring developers are constantly seeking ways to translate their creative ideas into playable experiences, and one of the most accessible platforms to begin this journey is Pygame. This powerful library, built on top of Python, allows developers to dive into the world of game development with ...
 
 ---
 
