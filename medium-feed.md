@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Tkinter and Threading: Building Responsive Python GUI Applications](https://medium.com/tomtalkspython/tkinter-and-threading-building-responsive-python-gui-applications-02eed0e9b0a7?source=rss-cba96b45006f------2)
+*Published on: October 01, 2024*
+
+In today’s fast-paced digital landscape, user experience is paramount. Whether you’re developing a desktop application for data analysis, a tool for file management, or a game, a responsive interface can significantly enhance user satisfaction. However, many developers encounter a common challenge: how to manage long-running tasks in a graphical user interface (GUI) without causing the application to freeze. This is where Python’s Tkinter and thr...
+
+---
+
 ## [Deploying Azure Web Apps with PowerShell: A Step-by-Step Guide](https://medium.com/tomtalkspowershell/deploying-azure-web-apps-with-powershell-a-step-by-step-guide-0f2059e10ac7?source=rss-cba96b45006f------2)
 *Published on: October 01, 2024*
 
@@ -65,13 +72,6 @@ In today’s digital landscape, the demand for intuitive and visually appealing 
 *Published on: September 25, 2024*
 
 In today’s fast-paced IT landscape, effective resource management is critical for maintaining operational efficiency and ensuring that cloud environments are both scalable and cost-effective. As organizations increasingly migrate to the cloud, understanding how to organize and manage resources becomes paramount. Azure Resource Groups serve as a fundamental building block in Microsoft Azure, allowing system administrators and IT professionals to g...
-
----
-
-## [Mastering Tkinter: A Beginner’s Guide to Python GUI Development](https://medium.com/tomtalkspython/mastering-tkinter-a-beginners-guide-to-python-gui-development-fd151a8b0903?source=rss-cba96b45006f------2)
-*Published on: September 24, 2024*
-
-In today’s digital age, where applications seamlessly blend into our daily lives, the ability to create visually engaging software has never been more relevant. Whether you’re a student, a hobbyist, or an aspiring developer, mastering graphical user interfaces (GUIs) can unlock a world of possibilities in desktop application development. Among the myriad of tools available, Tkinter stands out as a powerful yet accessible library for Python, enabl...
 
 ---
 
