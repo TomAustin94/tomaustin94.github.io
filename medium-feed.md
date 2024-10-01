@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Deploying Azure Web Apps with PowerShell: A Step-by-Step Guide](https://medium.com/tomtalkspowershell/deploying-azure-web-apps-with-powershell-a-step-by-step-guide-0f2059e10ac7?source=rss-cba96b45006f------2)
+*Published on: October 01, 2024*
+
+In today’s fast-paced digital landscape, the ability to efficiently deploy and manage web applications is crucial for system administrators and IT professionals. As organizations increasingly migrate to the cloud, understanding how to leverage powerful tools such as Microsoft Azure becomes essential for optimizing operations and enhancing service delivery. Azure Web Apps, a core component of the Azure App Service, provides a robust platform for h...
+
+---
+
 ## [Advanced Tkinter: Creating Custom Widgets and Styles](https://medium.com/tomtalkspython/advanced-tkinter-creating-custom-widgets-and-styles-0f2df4b28f7a?source=rss-cba96b45006f------2)
 *Published on: September 30, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced IT landscape, effective resource management is critical 
 *Published on: September 24, 2024*
 
 In today’s digital age, where applications seamlessly blend into our daily lives, the ability to create visually engaging software has never been more relevant. Whether you’re a student, a hobbyist, or an aspiring developer, mastering graphical user interfaces (GUIs) can unlock a world of possibilities in desktop application development. Among the myriad of tools available, Tkinter stands out as a powerful yet accessible library for Python, enabl...
-
----
-
-## [A Deep Dive into Azure PowerShell Modules](https://medium.com/tomtalkspowershell/a-deep-dive-into-azure-powershell-modules-b1baf77a3d3a?source=rss-cba96b45006f------2)
-*Published on: September 24, 2024*
-
-In the rapidly evolving landscape of cloud computing, Azure has emerged as one of the leading platforms for businesses seeking scalability, reliability, and innovation. For IT professionals and system administrators, mastering Azure is not just advantageous — it’s essential. One of the most powerful tools at your disposal in this realm is Azure PowerShell, a robust command-line interface that allows for seamless management and automation of Azure...
 
 ---
 
