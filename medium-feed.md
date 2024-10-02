@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Networking in Azure: Managing with PowerShell](https://medium.com/tomtalkspowershell/networking-in-azure-managing-with-powershell-30b522e26662?source=rss-cba96b45006f------2)
+*Published on: October 02, 2024*
+
+In today’s fast-paced digital landscape, effective network management is crucial for IT professionals and system administrators aiming to optimize performance and security in cloud environments. As organizations increasingly migrate to Microsoft Azure, understanding the intricacies of Azure networking components becomes essential. Networking in Azure not only supports the seamless operation of applications but also ensures secure communication be...
+
+---
+
 ## [From Console to GUI: Converting Python Scripts to Tkinter Applications](https://medium.com/tomtalkspython/from-console-to-gui-converting-python-scripts-to-tkinter-applications-38cf980f14a7?source=rss-cba96b45006f------2)
 *Published on: October 02, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced world, staying informed about the weather is more import
 *Published on: September 26, 2024*
 
 In today’s fast-paced IT landscape, the ability to swiftly and efficiently deploy applications is paramount. As organizations increasingly adopt DevOps practices, system administrators and IT professionals find themselves at the forefront of ensuring that Continuous Integration and Continuous Deployment (CI/CD) pipelines are not only functional but also optimized for performance and reliability. PowerShell, a powerful scripting language and autom...
-
----
-
-## [10 Must-Know Tkinter Widgets for Stunning Python GUIs](https://medium.com/tomtalkspython/10-must-know-tkinter-widgets-for-stunning-python-guis-80ec1b7e0f33?source=rss-cba96b45006f------2)
-*Published on: September 25, 2024*
-
-In today’s digital landscape, the demand for intuitive and visually appealing user interfaces is higher than ever. As Python continues to dominate the programming world, developers are increasingly seeking efficient ways to create stunning graphical user interfaces (GUIs) that enhance user experience. Tkinter, Python’s standard GUI toolkit, emerges as a powerful ally in this quest, offering a rich set of widgets that can transform simple scripts ...
 
 ---
 
