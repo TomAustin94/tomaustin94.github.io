@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [From Console to GUI: Converting Python Scripts to Tkinter Applications](https://medium.com/tomtalkspython/from-console-to-gui-converting-python-scripts-to-tkinter-applications-38cf980f14a7?source=rss-cba96b45006f------2)
+*Published on: October 02, 2024*
+
+In the ever-evolving landscape of software development, user experience has become a paramount focus for both developers and users alike. While command-line interfaces (CLIs) have their place, the demand for intuitive and visually appealing graphical user interfaces (GUIs) has surged as more individuals seek accessible and streamlined interactions with technology. Python, a programming language renowned for its simplicity and versatility, offers ...
+
+---
+
 ## [Tkinter and Threading: Building Responsive Python GUI Applications](https://medium.com/tomtalkspython/tkinter-and-threading-building-responsive-python-gui-applications-02eed0e9b0a7?source=rss-cba96b45006f------2)
 *Published on: October 01, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced IT landscape, the ability to swiftly and efficiently dep
 *Published on: September 25, 2024*
 
 In today’s digital landscape, the demand for intuitive and visually appealing user interfaces is higher than ever. As Python continues to dominate the programming world, developers are increasingly seeking efficient ways to create stunning graphical user interfaces (GUIs) that enhance user experience. Tkinter, Python’s standard GUI toolkit, emerges as a powerful ally in this quest, offering a rich set of widgets that can transform simple scripts ...
-
----
-
-## [Creating and Managing Azure Resource Groups with PowerShell](https://medium.com/tomtalkspowershell/creating-and-managing-azure-resource-groups-with-powershell-b8116438e2c0?source=rss-cba96b45006f------2)
-*Published on: September 25, 2024*
-
-In today’s fast-paced IT landscape, effective resource management is critical for maintaining operational efficiency and ensuring that cloud environments are both scalable and cost-effective. As organizations increasingly migrate to the cloud, understanding how to organize and manage resources becomes paramount. Azure Resource Groups serve as a fundamental building block in Microsoft Azure, allowing system administrators and IT professionals to g...
 
 ---
 
