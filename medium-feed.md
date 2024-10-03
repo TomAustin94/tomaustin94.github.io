@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Tkinter Canvas Mastery: Creating Interactive Graphics and Games](https://medium.com/tomtalkspython/tkinter-canvas-mastery-creating-interactive-graphics-and-games-e78b26b09d0d?source=rss-cba96b45006f------2)
+*Published on: October 03, 2024*
+
+In a world where technology continues to evolve at an unprecedented pace, the demand for interactive applications and engaging user experiences has never been higher. Whether you’re a budding developer, a seasoned programmer, or simply someone with a creative spark, mastering the art of graphical programming can open doors to countless possibilities. Enter Tkinter, Python’s standard GUI (Graphical User Interface) toolkit, which offers a powerful ...
+
+---
+
 ## [Cost Management in Azure using PowerShell](https://medium.com/tomtalkspowershell/cost-management-in-azure-using-powershell-60d916ff64bd?source=rss-cba96b45006f------2)
 *Published on: October 03, 2024*
 
@@ -65,13 +72,6 @@ In the ever-evolving landscape of software development, creating user-friendly g
 *Published on: September 27, 2024*
 
 In today’s fast-paced IT landscape, automation has become an essential practice for system administrators and IT professionals looking to streamline operations and enhance efficiency. With the ever-increasing complexity of cloud environments, the need for robust automation solutions is more pressing than ever. Enter Azure Functions — Microsoft’s serverless compute service that allows you to run code on-demand without having to manage infrastructu...
-
----
-
-## [Building a Weather App with Tkinter and Python: Step-by-Step Tutorial](https://medium.com/tomtalkspython/building-a-weather-app-with-tkinter-and-python-step-by-step-tutorial-5cd0cac14f6c?source=rss-cba96b45006f------2)
-*Published on: September 26, 2024*
-
-In today’s fast-paced world, staying informed about the weather is more important than ever. Whether you’re planning a weekend getaway, gearing up for an outdoor event, or just want to know if you need an umbrella on your way to work, having access to real-time weather data can make a significant difference in your daily life. With the rise of technology, building your weather application has never been more accessible, especially with powerful t...
 
 ---
 
