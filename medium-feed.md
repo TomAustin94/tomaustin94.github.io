@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Cost Management in Azure using PowerShell](https://medium.com/tomtalkspowershell/cost-management-in-azure-using-powershell-60d916ff64bd?source=rss-cba96b45006f------2)
+*Published on: October 03, 2024*
+
+In today’s cloud-centric IT landscape, effective cost management has become a crucial responsibility for system administrators and IT professionals. As organizations increasingly migrate their workloads to Azure, understanding and controlling cloud expenses is not just a matter of financial prudence but also vital for operational efficiency. The ability to track, analyze, and optimize resource usage directly impacts the bottom line, making it ess...
+
+---
+
 ## [Networking in Azure: Managing with PowerShell](https://medium.com/tomtalkspowershell/networking-in-azure-managing-with-powershell-30b522e26662?source=rss-cba96b45006f------2)
 *Published on: October 02, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced IT landscape, automation has become an essential practic
 *Published on: September 26, 2024*
 
 In today’s fast-paced world, staying informed about the weather is more important than ever. Whether you’re planning a weekend getaway, gearing up for an outdoor event, or just want to know if you need an umbrella on your way to work, having access to real-time weather data can make a significant difference in your daily life. With the rise of technology, building your weather application has never been more accessible, especially with powerful t...
-
----
-
-## [PowerShell for Azure DevOps: Streamlining Your CI/CD Pipeline](https://medium.com/tomtalkspowershell/powershell-for-azure-devops-streamlining-your-ci-cd-pipeline-440343ceea0a?source=rss-cba96b45006f------2)
-*Published on: September 26, 2024*
-
-In today’s fast-paced IT landscape, the ability to swiftly and efficiently deploy applications is paramount. As organizations increasingly adopt DevOps practices, system administrators and IT professionals find themselves at the forefront of ensuring that Continuous Integration and Continuous Deployment (CI/CD) pipelines are not only functional but also optimized for performance and reliability. PowerShell, a powerful scripting language and autom...
 
 ---
 
