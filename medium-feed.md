@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Using PowerShell to Manage Azure Blob Storage](https://medium.com/tomtalkspowershell/using-powershell-to-manage-azure-blob-storage-de7b7985f012?source=rss-cba96b45006f------2)
+*Published on: October 04, 2024*
+
+In today’s cloud-centric world, the ability to efficiently manage data storage solutions is crucial for IT professionals and system administrators. Azure Blob Storage, a key component of Microsoft Azure, provides a scalable and secure way to store vast amounts of unstructured data. As organizations increasingly rely on cloud services, mastering the tools that facilitate effective management of these resources becomes essential....
+
+---
+
+## [Tkinter and SQLite: Building a Personal Finance Tracker](https://medium.com/tomtalkspython/tkinter-and-sqlite-building-a-personal-finance-tracker-72e77b7f18b8?source=rss-cba96b45006f------2)
+*Published on: October 04, 2024*
+
+In an age where financial literacy is more important than ever, managing personal finances has become a crucial skill for individuals seeking to secure their economic future. With rising living costs and the need for careful budgeting, having a reliable tool to track income, expenses, and savings can make a significant difference. This is where technology swoops in to save the day, offering innovative solutions that simplify financial management....
+
+---
+
 ## [Tkinter Canvas Mastery: Creating Interactive Graphics and Games](https://medium.com/tomtalkspython/tkinter-canvas-mastery-creating-interactive-graphics-and-games-e78b26b09d0d?source=rss-cba96b45006f------2)
 *Published on: October 03, 2024*
 
@@ -58,20 +72,6 @@ In today’s fast-paced digital landscape, the demand for intuitive and visually
 *Published on: September 30, 2024*
 
 In the ever-evolving landscape of IT infrastructure, the ability to monitor and manage resources efficiently is crucial for system administrators and IT professionals. As organizations increasingly migrate to the cloud, understanding how to leverage powerful tools like Azure PowerShell becomes imperative. With its rich set of cmdlets tailored for Azure, PowerShell not only simplifies resource management but also empowers administrators to gain de...
-
----
-
-## [Tkinter vs. PyQt: Choosing the Right GUI Framework for Your Python Project](https://medium.com/tomtalkspython/tkinter-vs-pyqt-choosing-the-right-gui-framework-for-your-python-project-46a804ec5d5b?source=rss-cba96b45006f------2)
-*Published on: September 27, 2024*
-
-In the ever-evolving landscape of software development, creating user-friendly graphical interfaces is more crucial than ever. As Python continues to dominate as a programming language for a wide array of applications — from web development to data science — the demand for robust and intuitive graphical user interfaces (GUIs) remains high. Among the myriad of options available, two frameworks stand out for their popularity and capabilities: Tkint...
-
----
-
-## [Integrating PowerShell with Azure Functions for Automation](https://medium.com/tomtalkspowershell/integrating-powershell-with-azure-functions-for-automation-48a30c89fd4e?source=rss-cba96b45006f------2)
-*Published on: September 27, 2024*
-
-In today’s fast-paced IT landscape, automation has become an essential practice for system administrators and IT professionals looking to streamline operations and enhance efficiency. With the ever-increasing complexity of cloud environments, the need for robust automation solutions is more pressing than ever. Enter Azure Functions — Microsoft’s serverless compute service that allows you to run code on-demand without having to manage infrastructu...
 
 ---
 
