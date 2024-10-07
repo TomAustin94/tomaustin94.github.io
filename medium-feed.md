@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Mastering Tkinter Geometry Managers: Pack, Grid, and Place](https://medium.com/tomtalkspython/mastering-tkinter-geometry-managers-pack-grid-and-place-c1c90648af18?source=rss-cba96b45006f------2)
+*Published on: October 07, 2024*
+
+In the world of GUI development, the layout of your application can make or break the user experience. Tkinter, Python’s standard GUI toolkit, provides powerful tools for creating visually appealing and functional interfaces. Among these tools are three fundamental geometry managers: <strong>pack</strong>, <strong>grid</strong>, and <strong>place</strong>. Understanding how to effectively use these geometry managers is crucial for any developer l...
+
+---
+
 ## [Using PowerShell to Manage Azure Blob Storage](https://medium.com/tomtalkspowershell/using-powershell-to-manage-azure-blob-storage-de7b7985f012?source=rss-cba96b45006f------2)
 *Published on: October 04, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced digital landscape, the ability to efficiently deploy and
 *Published on: September 30, 2024*
 
 In today’s fast-paced digital landscape, the demand for intuitive and visually appealing user interfaces is greater than ever. As developers strive to create applications that not only function well but also captivate users, mastering GUI frameworks becomes essential. Among these frameworks, Tkinter stands out as a powerful and accessible option for building desktop applications in Python. However, many developers often scratch the surface with b...
-
----
-
-## [How to Use Azure PowerShell to Monitor Your Resources](https://medium.com/tomtalkspowershell/how-to-use-azure-powershell-to-monitor-your-resources-733140422488?source=rss-cba96b45006f------2)
-*Published on: September 30, 2024*
-
-In the ever-evolving landscape of IT infrastructure, the ability to monitor and manage resources efficiently is crucial for system administrators and IT professionals. As organizations increasingly migrate to the cloud, understanding how to leverage powerful tools like Azure PowerShell becomes imperative. With its rich set of cmdlets tailored for Azure, PowerShell not only simplifies resource management but also empowers administrators to gain de...
 
 ---
 
