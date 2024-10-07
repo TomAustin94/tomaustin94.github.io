@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Azure PowerShell vs GUI: Pros and Cons](https://medium.com/tomtalkspowershell/azure-powershell-vs-gui-pros-and-cons-9c3f58605750?source=rss-cba96b45006f------2)
+*Published on: October 07, 2024*
+
+In the ever-evolving landscape of IT and system administration, the tools we choose to manage our resources can significantly impact our efficiency and effectiveness. Among the most debated topics in this realm is the comparison between Azure PowerShell and the Azure Graphical User Interface (GUI). As organizations increasingly migrate to the cloud, understanding the strengths and weaknesses of these two management approaches becomes crucial for ...
+
+---
+
 ## [Mastering Tkinter Geometry Managers: Pack, Grid, and Place](https://medium.com/tomtalkspython/mastering-tkinter-geometry-managers-pack-grid-and-place-c1c90648af18?source=rss-cba96b45006f------2)
 *Published on: October 07, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced digital landscape, user experience is paramount. Whether
 *Published on: October 01, 2024*
 
 In today’s fast-paced digital landscape, the ability to efficiently deploy and manage web applications is crucial for system administrators and IT professionals. As organizations increasingly migrate to the cloud, understanding how to leverage powerful tools such as Microsoft Azure becomes essential for optimizing operations and enhancing service delivery. Azure Web Apps, a core component of the Azure App Service, provides a robust platform for h...
-
----
-
-## [Advanced Tkinter: Creating Custom Widgets and Styles](https://medium.com/tomtalkspython/advanced-tkinter-creating-custom-widgets-and-styles-0f2df4b28f7a?source=rss-cba96b45006f------2)
-*Published on: September 30, 2024*
-
-In today’s fast-paced digital landscape, the demand for intuitive and visually appealing user interfaces is greater than ever. As developers strive to create applications that not only function well but also captivate users, mastering GUI frameworks becomes essential. Among these frameworks, Tkinter stands out as a powerful and accessible option for building desktop applications in Python. However, many developers often scratch the surface with b...
 
 ---
 
