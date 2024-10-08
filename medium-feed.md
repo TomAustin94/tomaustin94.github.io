@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Creating a Text Editor with Tkinter: From Basic to Advanced Features](https://medium.com/tomtalkspython/creating-a-text-editor-with-tkinter-from-basic-to-advanced-features-ee04e9cf8cb3?source=rss-cba96b45006f------2)
+*Published on: October 08, 2024*
+
+In an age where digital communication and documentation are paramount, the ability to create and manipulate text has never been more crucial. Whether you’re a budding programmer looking to hone your skills or a seasoned developer seeking to add a personal touch to your workflow, building a text editor can be an enlightening project that combines creativity with technical prowess. Tkinter, Python’s standard GUI (Graphical User Interface) library, ...
+
+---
+
 ## [Azure PowerShell vs GUI: Pros and Cons](https://medium.com/tomtalkspowershell/azure-powershell-vs-gui-pros-and-cons-9c3f58605750?source=rss-cba96b45006f------2)
 *Published on: October 07, 2024*
 
@@ -65,13 +72,6 @@ In the ever-evolving landscape of software development, user experience has beco
 *Published on: October 01, 2024*
 
 In today’s fast-paced digital landscape, user experience is paramount. Whether you’re developing a desktop application for data analysis, a tool for file management, or a game, a responsive interface can significantly enhance user satisfaction. However, many developers encounter a common challenge: how to manage long-running tasks in a graphical user interface (GUI) without causing the application to freeze. This is where Python’s Tkinter and thr...
-
----
-
-## [Deploying Azure Web Apps with PowerShell: A Step-by-Step Guide](https://medium.com/tomtalkspowershell/deploying-azure-web-apps-with-powershell-a-step-by-step-guide-0f2059e10ac7?source=rss-cba96b45006f------2)
-*Published on: October 01, 2024*
-
-In today’s fast-paced digital landscape, the ability to efficiently deploy and manage web applications is crucial for system administrators and IT professionals. As organizations increasingly migrate to the cloud, understanding how to leverage powerful tools such as Microsoft Azure becomes essential for optimizing operations and enhancing service delivery. Azure Web Apps, a core component of the Azure App Service, provides a robust platform for h...
 
 ---
 
