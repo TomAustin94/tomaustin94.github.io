@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Deploying Your First Azure Kubernetes Service with PowerShell](https://medium.com/tomtalkspowershell/deploying-your-first-azure-kubernetes-service-with-powershell-644da8ef6740?source=rss-cba96b45006f------2)
+*Published on: October 08, 2024*
+
+In today’s fast-paced IT landscape, the ability to streamline and automate deployment processes is crucial for system administrators and IT professionals. As organizations increasingly shift towards containerized applications, mastering orchestration platforms like Kubernetes has become essential. Azure Kubernetes Service (AKS) offers a powerful solution for deploying and managing containerized applications in the cloud, but navigating its comple...
+
+---
+
 ## [Creating a Text Editor with Tkinter: From Basic to Advanced Features](https://medium.com/tomtalkspython/creating-a-text-editor-with-tkinter-from-basic-to-advanced-features-ee04e9cf8cb3?source=rss-cba96b45006f------2)
 *Published on: October 08, 2024*
 
@@ -65,13 +72,6 @@ In today’s fast-paced digital landscape, effective network management is cruci
 *Published on: October 02, 2024*
 
 In the ever-evolving landscape of software development, user experience has become a paramount focus for both developers and users alike. While command-line interfaces (CLIs) have their place, the demand for intuitive and visually appealing graphical user interfaces (GUIs) has surged as more individuals seek accessible and streamlined interactions with technology. Python, a programming language renowned for its simplicity and versatility, offers ...
-
----
-
-## [Tkinter and Threading: Building Responsive Python GUI Applications](https://medium.com/tomtalkspython/tkinter-and-threading-building-responsive-python-gui-applications-02eed0e9b0a7?source=rss-cba96b45006f------2)
-*Published on: October 01, 2024*
-
-In today’s fast-paced digital landscape, user experience is paramount. Whether you’re developing a desktop application for data analysis, a tool for file management, or a game, a responsive interface can significantly enhance user satisfaction. However, many developers encounter a common challenge: how to manage long-running tasks in a graphical user interface (GUI) without causing the application to freeze. This is where Python’s Tkinter and thr...
 
 ---
 
