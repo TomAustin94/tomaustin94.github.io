@@ -5,6 +5,13 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Troubleshooting Azure Resources with PowerShell](https://medium.com/tomtalkspowershell/troubleshooting-azure-resources-with-powershell-2c1bce41cb1d?source=rss-cba96b45006f------2)
+*Published on: October 09, 2024*
+
+In today’s fast-paced IT landscape, cloud computing has become the backbone of modern infrastructure, enabling organizations to scale, innovate, and respond to changing needs with unprecedented agility. Microsoft Azure stands out as a leading cloud platform, offering an extensive array of services that empower system administrators and IT professionals to manage resources efficiently. However, with great power comes great responsibility — and cha...
+
+---
+
 ## [Deploying Your First Azure Kubernetes Service with PowerShell](https://medium.com/tomtalkspowershell/deploying-your-first-azure-kubernetes-service-with-powershell-644da8ef6740?source=rss-cba96b45006f------2)
 *Published on: October 08, 2024*
 
@@ -65,13 +72,6 @@ In today’s cloud-centric IT landscape, effective cost management has become a 
 *Published on: October 02, 2024*
 
 In today’s fast-paced digital landscape, effective network management is crucial for IT professionals and system administrators aiming to optimize performance and security in cloud environments. As organizations increasingly migrate to Microsoft Azure, understanding the intricacies of Azure networking components becomes essential. Networking in Azure not only supports the seamless operation of applications but also ensures secure communication be...
-
----
-
-## [From Console to GUI: Converting Python Scripts to Tkinter Applications](https://medium.com/tomtalkspython/from-console-to-gui-converting-python-scripts-to-tkinter-applications-38cf980f14a7?source=rss-cba96b45006f------2)
-*Published on: October 02, 2024*
-
-In the ever-evolving landscape of software development, user experience has become a paramount focus for both developers and users alike. While command-line interfaces (CLIs) have their place, the demand for intuitive and visually appealing graphical user interfaces (GUIs) has surged as more individuals seek accessible and streamlined interactions with technology. Python, a programming language renowned for its simplicity and versatility, offers ...
 
 ---
 
