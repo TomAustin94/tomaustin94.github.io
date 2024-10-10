@@ -5,6 +5,20 @@ title: 'My Medium Feed'
 
 # My Latest Posts
 
+## [Learning Azure PowerShell: Resources and Study Tips](https://medium.com/tomtalkspowershell/learning-azure-powershell-resources-and-study-tips-665b3e5681c0?source=rss-cba96b45006f------2)
+*Published on: October 10, 2024*
+
+In today’s fast-paced IT landscape, the ability to efficiently manage cloud resources is paramount for system administrators and IT professionals. As organizations increasingly migrate to the cloud, mastering tools that streamline operations has become essential. Enter Azure PowerShell — a powerful scripting language that allows you to automate and manage Azure resources with ease. Whether you’re a beginner eager to dive into the world of cloud m...
+
+---
+
+## [Building Cross-Platform Applications with Tkinter and PyInstaller](https://medium.com/tomtalkspython/building-cross-platform-applications-with-tkinter-and-pyinstaller-d7a10163c550?source=rss-cba96b45006f------2)
+*Published on: October 10, 2024*
+
+In an increasingly interconnected world, the demand for versatile software applications that can function seamlessly across different operating systems has never been greater. As developers, we strive to create applications that not only perform well but also provide an intuitive user experience, regardless of the platform. Python, with its rich ecosystem of libraries and frameworks, has emerged as a powerful tool for building graphical user inte...
+
+---
+
 ## [Troubleshooting Azure Resources with PowerShell](https://medium.com/tomtalkspowershell/troubleshooting-azure-resources-with-powershell-2c1bce41cb1d?source=rss-cba96b45006f------2)
 *Published on: October 09, 2024*
 
@@ -58,20 +72,6 @@ In an age where financial literacy is more important than ever, managing persona
 *Published on: October 03, 2024*
 
 In a world where technology continues to evolve at an unprecedented pace, the demand for interactive applications and engaging user experiences has never been higher. Whether you’re a budding developer, a seasoned programmer, or simply someone with a creative spark, mastering the art of graphical programming can open doors to countless possibilities. Enter Tkinter, Python’s standard GUI (Graphical User Interface) toolkit, which offers a powerful ...
-
----
-
-## [Cost Management in Azure using PowerShell](https://medium.com/tomtalkspowershell/cost-management-in-azure-using-powershell-60d916ff64bd?source=rss-cba96b45006f------2)
-*Published on: October 03, 2024*
-
-In today’s cloud-centric IT landscape, effective cost management has become a crucial responsibility for system administrators and IT professionals. As organizations increasingly migrate their workloads to Azure, understanding and controlling cloud expenses is not just a matter of financial prudence but also vital for operational efficiency. The ability to track, analyze, and optimize resource usage directly impacts the bottom line, making it ess...
-
----
-
-## [Networking in Azure: Managing with PowerShell](https://medium.com/tomtalkspowershell/networking-in-azure-managing-with-powershell-30b522e26662?source=rss-cba96b45006f------2)
-*Published on: October 02, 2024*
-
-In today’s fast-paced digital landscape, effective network management is crucial for IT professionals and system administrators aiming to optimize performance and security in cloud environments. As organizations increasingly migrate to Microsoft Azure, understanding the intricacies of Azure networking components becomes essential. Networking in Azure not only supports the seamless operation of applications but also ensures secure communication be...
 
 ---
 
